@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-04-21T15:17:06.045Z</updated>
+  <updated>2021-04-25T21:49:31.475Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>全球量子科技与工业快讯第十八期</title>
+    <link href="http://example.com/2021/04/25/news/news-18/"/>
+    <id>http://example.com/2021/04/25/news/news-18/</id>
+    <published>2021-04-25T05:00:00.000Z</published>
+    <updated>2021-04-25T21:49:31.475Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;来源：ORNL Quantum Computing Institute ｜ 转译编写：求是量子&lt;/p&gt;
+&lt;h2 id=&quot;澳大利亚拓展全球合作以发展量子计算等关键技术&quot;&gt;&lt;a href=&quot;#澳大利亚拓展全球合作以发展量子计算等关键技术&quot; class=&quot;headerlink&quot; title=&quot;澳大利亚拓展全球合作以发展量子计算等关键技术&quot;&gt;&lt;/a&gt;澳大利亚拓展全球合作以发展量子计算等关键技术&lt;/h2&gt;&lt;p&gt;随着现代科技的日益复杂，国家之间开始大量寻求跨国合作，以实现共赢局面，也使得自己在关键技术方面不会落后于国际水平。在&lt;a href=&quot;/2021/04/19/news/news-17&quot;&gt;《全球量子科技与工业快讯第十七期》&lt;/a&gt;中，我们报道拜登政府将与日本合作，共同发展量子信息在内的多项尖端技术。&lt;/p&gt;
+&lt;p&gt;近日，澳大利亚与印度宣布达成一项合作，将共同研发包括人工智能（artificial intelligence），5G网络，物联网（internet of things）以及量子计算（quantum computing）在内的新兴科技。据悉，两国希望通过该项目塑造一个合适的科技环境，从而扩大双方在印度洋-太平洋区域的国际影响力（&lt;a href=&quot;https://www.computerweekly.com/news/252499671/Australia-and-India-team-up-on-critical-technology&quot;&gt;相关链接&lt;/a&gt;）。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="量子资讯" scheme="http://example.com/categories/%E9%87%8F%E5%AD%90%E8%B5%84%E8%AE%AF/"/>
+    
+    <category term="科技与工业快讯" scheme="http://example.com/categories/%E9%87%8F%E5%AD%90%E8%B5%84%E8%AE%AF/%E7%A7%91%E6%8A%80%E4%B8%8E%E5%B7%A5%E4%B8%9A%E5%BF%AB%E8%AE%AF/"/>
+    
+    
+    <category term="量子快讯" scheme="http://example.com/tags/%E9%87%8F%E5%AD%90%E5%BF%AB%E8%AE%AF/"/>
+    
+  </entry>
   
   <entry>
     <title>中国量子信息产业发展迅速，初创企业成为新兴力量</title>
@@ -435,29 +458,6 @@
     
     
     <category term="科普" scheme="http://example.com/tags/%E7%A7%91%E6%99%AE/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>搜索巨头百度深耕中国量子产业</title>
-    <link href="http://example.com/2021/01/06/company/baidu/"/>
-    <id>http://example.com/2021/01/06/company/baidu/</id>
-    <published>2021-01-06T06:00:00.000Z</published>
-    <updated>2021-04-21T21:34:22.480Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;来源：求是量子系列之“量子产业观察”&lt;/p&gt;
-&lt;p&gt;在上一期文章&lt;a href=&quot;/2021/01/06/company/alibaba/&quot;&gt;《电商帝国阿里巴巴起跑中国量子产业》&lt;/a&gt;中，我们带领大家了解了阿里巴巴旗下达摩院的量子计算团队及其现状。今天，让我们把目光转向中国的另一家互联网巨头：百度。&lt;/p&gt;
-&lt;p&gt;百度是全球最大的中文搜索引擎，中国最大的以信息和知识为核心的互联网综合服务公司，其在2018年3月组建了百度量子计算研究所，将目光聚焦 QAAA 规划，开展量子人工智能（Quantum AI）、量子算法（Quantum Algorithm）、量子体系架构（Quantum Architecture）等相关业务，深耕量子产业。&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="量子咨询" scheme="http://example.com/categories/%E9%87%8F%E5%AD%90%E5%92%A8%E8%AF%A2/"/>
-    
-    <category term="中国产业观察" scheme="http://example.com/categories/%E9%87%8F%E5%AD%90%E5%92%A8%E8%AF%A2/%E4%B8%AD%E5%9B%BD%E4%BA%A7%E4%B8%9A%E8%A7%82%E5%AF%9F/"/>
-    
-    
-    <category term="产业观察" scheme="http://example.com/tags/%E4%BA%A7%E4%B8%9A%E8%A7%82%E5%AF%9F/"/>
     
   </entry>
   
