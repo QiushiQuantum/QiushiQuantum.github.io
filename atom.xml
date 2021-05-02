@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-04-25T21:49:31.475Z</updated>
+  <updated>2021-05-02T20:20:24.375Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>全球量子科技与工业快讯第十九期</title>
+    <link href="http://example.com/2021/05/02/news/news-19/"/>
+    <id>http://example.com/2021/05/02/news/news-19/</id>
+    <published>2021-05-02T05:00:00.000Z</published>
+    <updated>2021-05-02T20:20:24.375Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;来源：ORNL Quantum Computing Institute ｜ 转译编写：求是量子&lt;/p&gt;
+&lt;h2 id=&quot;高盛与QC-Ware合作为风险资产定价提出新量子算法&quot;&gt;&lt;a href=&quot;#高盛与QC-Ware合作为风险资产定价提出新量子算法&quot; class=&quot;headerlink&quot; title=&quot;高盛与QC Ware合作为风险资产定价提出新量子算法&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://www.prnewswire.com/news-releases/goldman-sachs-and-qc-ware-collaboration-brings-new-way-to-price-risky-assets-within-reach-of-quantum-computers-301278773.html&quot;&gt;高盛与QC Ware合作为风险资产定价提出新量子算法&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;近日，全球最大投资银行之一的高盛（Goldman Sachs）与初创公司QC Ware合作，在量子计算在金融领域的应用方面迈出了重要的一步。据悉，两家公司的研究人员设计一个鲁棒的量子算法，可以超越目前最好的基于蒙特卡罗仿真（Monte Carlo simulations）的算法，并有望在近阶段的量子硬件上应用。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="量子资讯" scheme="http://example.com/categories/%E9%87%8F%E5%AD%90%E8%B5%84%E8%AE%AF/"/>
+    
+    <category term="科技与工业快讯" scheme="http://example.com/categories/%E9%87%8F%E5%AD%90%E8%B5%84%E8%AE%AF/%E7%A7%91%E6%8A%80%E4%B8%8E%E5%B7%A5%E4%B8%9A%E5%BF%AB%E8%AE%AF/"/>
+    
+    
+    <category term="量子快讯" scheme="http://example.com/tags/%E9%87%8F%E5%AD%90%E5%BF%AB%E8%AE%AF/"/>
+    
+  </entry>
   
   <entry>
     <title>全球量子科技与工业快讯第十八期</title>
@@ -435,29 +457,6 @@
     
     
     <category term="量子快讯" scheme="http://example.com/tags/%E9%87%8F%E5%AD%90%E5%BF%AB%E8%AE%AF/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>蚁人大败霍金？让我们也来一局女王的量子象棋吧！</title>
-    <link href="http://example.com/2021/01/08/popular-science/quantum-chess/"/>
-    <id>http://example.com/2021/01/08/popular-science/quantum-chess/</id>
-    <published>2021-01-08T06:00:00.000Z</published>
-    <updated>2021-04-21T22:08:08.729Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;来源：求是量子系列之“量子科普”&lt;/p&gt;
-&lt;p&gt;象棋作为拥有千年历史的竞技运动，可以说是家喻户晓。而前一阵子火爆全网的《后翼弃兵》（又名《女王的棋局》）更是让小编重新领略了这个古老对抗性游戏的魅力。这类游戏的迷人之处就在于：一组简单的规则可以演化出诡谲多变的棋局。&lt;/p&gt;
-&lt;p&gt;随着量子理论的建立与推广，一些“疯狂”的科学家开始思考：如果在量子世界中下象棋又会怎样呢？今天，小编就带大家探秘一下“女王的量子棋局”。&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="量子科普" scheme="http://example.com/categories/%E9%87%8F%E5%AD%90%E7%A7%91%E6%99%AE/"/>
-    
-    <category term="量子游戏" scheme="http://example.com/categories/%E9%87%8F%E5%AD%90%E7%A7%91%E6%99%AE/%E9%87%8F%E5%AD%90%E6%B8%B8%E6%88%8F/"/>
-    
-    
-    <category term="科普" scheme="http://example.com/tags/%E7%A7%91%E6%99%AE/"/>
     
   </entry>
   
