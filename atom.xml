@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-05-02T20:20:24.375Z</updated>
+  <updated>2021-05-09T18:51:21.641Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>全球量子科技与工业快讯第二十期</title>
+    <link href="http://example.com/2021/05/09/news/news-20/"/>
+    <id>http://example.com/2021/05/09/news/news-20/</id>
+    <published>2021-05-09T05:00:00.000Z</published>
+    <updated>2021-05-09T18:51:21.641Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;来源：ORNL Quantum Computing Institute ｜ 转译编写：求是量子&lt;/p&gt;
+&lt;h2 id=&quot;量子初创公司仙纳度斩获贝瑟默风投1亿美元的注资&quot;&gt;&lt;a href=&quot;#量子初创公司仙纳度斩获贝瑟默风投1亿美元的注资&quot; class=&quot;headerlink&quot; title=&quot;量子初创公司仙纳度斩获贝瑟默风投1亿美元的注资&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://www.theglobeandmail.com/business/article-us-venture-giant-bessemer-set-to-lead-us100-million-funding-of-toronto/&quot;&gt;量子初创公司仙纳度斩获贝瑟默风投1亿美元的注资&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;仙纳度（Xanadu Quantum Technologies）是一家来自加拿大的量子初创公司，专注于光量子计算机的研发。此前，我们曾经报道过仙纳度与美国国家标准与技术局（National Institute of Standards and Technology）在大规模可编程光子学线路上取得了一定突破（详见&lt;a href=&quot;/2021/03/08/news/news-11/&quot;&gt;《全球量子科技与工业快讯第十一期》&lt;/a&gt;）。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="量子资讯" scheme="http://example.com/categories/%E9%87%8F%E5%AD%90%E8%B5%84%E8%AE%AF/"/>
+    
+    <category term="科技与工业快讯" scheme="http://example.com/categories/%E9%87%8F%E5%AD%90%E8%B5%84%E8%AE%AF/%E7%A7%91%E6%8A%80%E4%B8%8E%E5%B7%A5%E4%B8%9A%E5%BF%AB%E8%AE%AF/"/>
+    
+    
+    <category term="量子快讯" scheme="http://example.com/tags/%E9%87%8F%E5%AD%90%E5%BF%AB%E8%AE%AF/"/>
+    
+  </entry>
   
   <entry>
     <title>全球量子科技与工业快讯第十九期</title>
@@ -426,28 +448,6 @@
     
     <summary type="html">&lt;p&gt;来源：ORNL Quantum Computing Institute ｜ 转译编写：求是量子&lt;/p&gt;
 &lt;h2 id=&quot;容错性量子计算机迎来重大突破&quot;&gt;&lt;a href=&quot;#容错性量子计算机迎来重大突破&quot; class=&quot;headerlink&quot; title=&quot;容错性量子计算机迎来重大突破&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://scitechdaily.com/error-protected-quantum-bits-entangled-a-milestone-in-the-development-of-fault-tolerant-quantum-computers/&quot;&gt;容错性量子计算机迎来重大突破&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;来自奥地利的量子物理学家首次成功实现了可容错的量子纠缠态。量子比特间的纠缠对于量子计算而言十分重要，正是这种纠缠特性使得了量子计算机得以超越经典计算机。（相关论文Entangling logical qubits with lattice surgery发表于顶级期刊《自然》）&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="量子资讯" scheme="http://example.com/categories/%E9%87%8F%E5%AD%90%E8%B5%84%E8%AE%AF/"/>
-    
-    <category term="科技与工业快讯" scheme="http://example.com/categories/%E9%87%8F%E5%AD%90%E8%B5%84%E8%AE%AF/%E7%A7%91%E6%8A%80%E4%B8%8E%E5%B7%A5%E4%B8%9A%E5%BF%AB%E8%AE%AF/"/>
-    
-    
-    <category term="量子快讯" scheme="http://example.com/tags/%E9%87%8F%E5%AD%90%E5%BF%AB%E8%AE%AF/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>全球量子科技与工业快讯第四期</title>
-    <link href="http://example.com/2021/01/11/news/news-4/"/>
-    <id>http://example.com/2021/01/11/news/news-4/</id>
-    <published>2021-01-11T06:00:00.000Z</published>
-    <updated>2021-04-21T22:17:15.232Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;来源：ORNL Quantum Computing Institute ｜ 转译编写：求是量子&lt;/p&gt;
-&lt;h2 id=&quot;中国电信推出量子加密电话服务&quot;&gt;&lt;a href=&quot;#中国电信推出量子加密电话服务&quot; class=&quot;headerlink&quot; title=&quot;中国电信推出量子加密电话服务&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://www.scmp.com/tech/innovation/article/3116659/china-telecom-launches-quantum-encrypted-phone-calls-smartphones&quot;&gt;中国电信推出量子加密电话服务&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;中国电信近日在中国安徽省推出了受量子加密保护的通信服务。为了开通这项服务，用户必须前往中国电信的实体店面更换SIM卡。这项服务也需要一个“量子安全通话”的手机APP，目前仅支持安卓操作系统。&lt;/p&gt;</summary>
     
     
     
