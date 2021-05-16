@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-05-09T18:51:21.641Z</updated>
+  <updated>2021-05-16T20:22:44.826Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>全球量子科技与工业快讯第二十一期</title>
+    <link href="http://example.com/2021/05/16/news/news-21/"/>
+    <id>http://example.com/2021/05/16/news/news-21/</id>
+    <published>2021-05-16T05:00:00.000Z</published>
+    <updated>2021-05-16T20:22:44.826Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;来源：ORNL Quantum Computing Institute ｜ 转译编写：求是量子&lt;/p&gt;
+&lt;h2 id=&quot;德国将投资20亿欧元建造其首个量子计算机&quot;&gt;&lt;a href=&quot;#德国将投资20亿欧元建造其首个量子计算机&quot; class=&quot;headerlink&quot; title=&quot;德国将投资20亿欧元建造其首个量子计算机&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://eandt.theiet.org/content/articles/2021/05/germany-to-invest-2bn-in-building-first-quantum-computer/&quot;&gt;德国将投资20亿欧元建造其首个量子计算机&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;据路透社（Reuters）报道，德国政府于上周宣布将投资约20亿欧元来支持量子计算的开发。该计划由德国科技部（science ministry）与经济部（economy ministry）共同发起，其中科技部将投资约11亿欧元，用于量子计算机的研发。而经济部也将贡献8.78亿欧元用于量子计算应用的探索。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="量子资讯" scheme="http://example.com/categories/%E9%87%8F%E5%AD%90%E8%B5%84%E8%AE%AF/"/>
+    
+    <category term="科技与工业快讯" scheme="http://example.com/categories/%E9%87%8F%E5%AD%90%E8%B5%84%E8%AE%AF/%E7%A7%91%E6%8A%80%E4%B8%8E%E5%B7%A5%E4%B8%9A%E5%BF%AB%E8%AE%AF/"/>
+    
+    
+    <category term="量子快讯" scheme="http://example.com/tags/%E9%87%8F%E5%AD%90%E5%BF%AB%E8%AE%AF/"/>
+    
+  </entry>
   
   <entry>
     <title>全球量子科技与工业快讯第二十期</title>
@@ -435,28 +457,6 @@
     
     
     <category term="产业观察" scheme="http://example.com/tags/%E4%BA%A7%E4%B8%9A%E8%A7%82%E5%AF%9F/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>全球量子科技与工业快讯第五期</title>
-    <link href="http://example.com/2021/01/18/news/news-5/"/>
-    <id>http://example.com/2021/01/18/news/news-5/</id>
-    <published>2021-01-18T06:00:00.000Z</published>
-    <updated>2021-04-21T22:25:08.061Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;来源：ORNL Quantum Computing Institute ｜ 转译编写：求是量子&lt;/p&gt;
-&lt;h2 id=&quot;容错性量子计算机迎来重大突破&quot;&gt;&lt;a href=&quot;#容错性量子计算机迎来重大突破&quot; class=&quot;headerlink&quot; title=&quot;容错性量子计算机迎来重大突破&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://scitechdaily.com/error-protected-quantum-bits-entangled-a-milestone-in-the-development-of-fault-tolerant-quantum-computers/&quot;&gt;容错性量子计算机迎来重大突破&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;来自奥地利的量子物理学家首次成功实现了可容错的量子纠缠态。量子比特间的纠缠对于量子计算而言十分重要，正是这种纠缠特性使得了量子计算机得以超越经典计算机。（相关论文Entangling logical qubits with lattice surgery发表于顶级期刊《自然》）&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="量子资讯" scheme="http://example.com/categories/%E9%87%8F%E5%AD%90%E8%B5%84%E8%AE%AF/"/>
-    
-    <category term="科技与工业快讯" scheme="http://example.com/categories/%E9%87%8F%E5%AD%90%E8%B5%84%E8%AE%AF/%E7%A7%91%E6%8A%80%E4%B8%8E%E5%B7%A5%E4%B8%9A%E5%BF%AB%E8%AE%AF/"/>
-    
-    
-    <category term="量子快讯" scheme="http://example.com/tags/%E9%87%8F%E5%AD%90%E5%BF%AB%E8%AE%AF/"/>
     
   </entry>
   
