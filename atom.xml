@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-05-16T20:22:44.826Z</updated>
+  <updated>2021-05-17T02:46:48.840Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,11 +17,38 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>狂热下的量子计算会是一场泡沫吗？（上）</title>
+    <link href="http://example.com/2021/05/17/company/qc-hype/"/>
+    <id>http://example.com/2021/05/17/company/qc-hype/</id>
+    <published>2021-05-17T05:00:00.000Z</published>
+    <updated>2021-05-17T02:46:48.840Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;来源：科学美国人（Scientific American）｜转译编写：求是量子&lt;/p&gt;
+&lt;p&gt;求是量子按：刘晓波在《大败局》中曾写下“正是他们在第一时间将大洋彼岸的最新网络动态’空投‘到幼弱的中国市场上，掀起了一轮又一轮的概念热浪。在这样的炒作中，天真的传统企业、股民及各级政府的资金成为他们创造神话的助燃剂…… 在青年精英们那种充满了激情而无不梦幻的经营姿态背后，却未必有着超越前人的、成熟的经营理念。”&lt;/p&gt;
+&lt;p&gt;今天，我们在全球范围内见证了类似的热浪——一股量子计算的热浪。随着数以百万，甚至数以亿计的资金涌入量子计算领域，很多象牙塔中的研究人员一下手握巨额的资金，走上了经营管理、创业融资、甚至借壳上市的道路。他们能否善用这些资金？更进一步，在如此巨大的金钱诱惑之下，研究人员是否还能够客观地衡量整个领域的未来？量子计算是否真如新闻和一些量子狂热者们所宣称的那样将&lt;strong&gt;在不久的未来&lt;/strong&gt;改变整个世界？&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="量子咨询" scheme="http://example.com/categories/%E9%87%8F%E5%AD%90%E5%92%A8%E8%AF%A2/"/>
+    
+    <category term="中国产业观察" scheme="http://example.com/categories/%E9%87%8F%E5%AD%90%E5%92%A8%E8%AF%A2/%E4%B8%AD%E5%9B%BD%E4%BA%A7%E4%B8%9A%E8%A7%82%E5%AF%9F/"/>
+    
+    <category term="量子科普" scheme="http://example.com/categories/%E9%87%8F%E5%AD%90%E7%A7%91%E6%99%AE/"/>
+    
+    
+    <category term="产业观察" scheme="http://example.com/tags/%E4%BA%A7%E4%B8%9A%E8%A7%82%E5%AF%9F/"/>
+    
+    <category term="科普" scheme="http://example.com/tags/%E7%A7%91%E6%99%AE/"/>
+    
+  </entry>
+  
+  <entry>
     <title>全球量子科技与工业快讯第二十一期</title>
     <link href="http://example.com/2021/05/16/news/news-21/"/>
     <id>http://example.com/2021/05/16/news/news-21/</id>
     <published>2021-05-16T05:00:00.000Z</published>
-    <updated>2021-05-16T20:22:44.826Z</updated>
+    <updated>2021-05-17T00:22:00.959Z</updated>
     
     
     <summary type="html">&lt;p&gt;来源：ORNL Quantum Computing Institute ｜ 转译编写：求是量子&lt;/p&gt;
@@ -435,28 +462,6 @@
     
     
     <category term="量子快讯" scheme="http://example.com/tags/%E9%87%8F%E5%AD%90%E5%BF%AB%E8%AE%AF/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>社交服务龙头腾讯务实推动量子计算</title>
-    <link href="http://example.com/2021/01/20/company/tecent/"/>
-    <id>http://example.com/2021/01/20/company/tecent/</id>
-    <published>2021-01-20T06:00:00.000Z</published>
-    <updated>2021-04-22T00:21:41.057Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;来源：求是量子系列之“量子产业观察”&lt;/p&gt;
-&lt;p&gt;BAT作为中国互联网龙头企业，可以说是中国互联网发展的方向标。至今，这“御三家”都对量子计算进行了不少的投资，也代表着中国企业界和众多国际大厂在全世界范围内角逐量子计算的桂冠。前两期文章（见末尾）我们分别带大家深入了解了阿里巴巴和腾讯的量子布局，今天，让我们一起走进腾讯量子实验室。&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="量子咨询" scheme="http://example.com/categories/%E9%87%8F%E5%AD%90%E5%92%A8%E8%AF%A2/"/>
-    
-    <category term="中国产业观察" scheme="http://example.com/categories/%E9%87%8F%E5%AD%90%E5%92%A8%E8%AF%A2/%E4%B8%AD%E5%9B%BD%E4%BA%A7%E4%B8%9A%E8%A7%82%E5%AF%9F/"/>
-    
-    
-    <category term="产业观察" scheme="http://example.com/tags/%E4%BA%A7%E4%B8%9A%E8%A7%82%E5%AF%9F/"/>
     
   </entry>
   
