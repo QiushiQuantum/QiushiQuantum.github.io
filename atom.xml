@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-05-17T02:46:48.840Z</updated>
+  <updated>2021-05-26T01:27:41.916Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,11 +17,34 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>帮用户开启量子旅程，IBM正为量子优势时代做好准备</title>
+    <link href="http://example.com/2021/05/25/company/IBM/"/>
+    <id>http://example.com/2021/05/25/company/IBM/</id>
+    <published>2021-05-25T05:00:00.000Z</published>
+    <updated>2021-05-26T01:27:41.916Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;来源：求是量子系列之“量子产业观察”&lt;/p&gt;
+&lt;p&gt;在前面六期文章中，我们已经介绍并分析了中国四大物联网龙头企业&lt;a href=&quot;/2021/01/06/company/baidu/&quot;&gt;百度&lt;/a&gt;，&lt;a href=&quot;/2020/12/30/company/alibaba/&quot;&gt;阿里&lt;/a&gt;，&lt;a href=&quot;/2021/01/20/company/tecent/&quot;&gt;腾讯&lt;/a&gt;（BAT），&lt;a href=&quot;/2021/02/10/company/huawei/&quot;&gt;华为&lt;/a&gt;（Huawei）和&lt;a href=&quot;/2021/03/17/company/benyuan/&quot;&gt;本源&lt;/a&gt;（Origin）以及&lt;a href=&quot;/2021/04/21/company/startup-domestic/&quot;&gt;国内的一些初创公司&lt;/a&gt;量子产业的现状。从本篇（第七期）起，让我们把目光转向活跃在一线的国外公司，看看国际上的这些量子计算公司是如何布局量子产业，引领相关科学技术的发展的。&lt;/p&gt;
+&lt;p&gt;今天的主角是国际商业机器公司或万国商业机器公司（International Business Machines Corporation，以下简称为“IBM”）。该公司总公司在纽约州阿蒙克市（Armonk, New York）。1911年由托马斯·沃森（Thomas J. Watson）创立于美国，是全球最大的信息技术和业务解决方案公司。IBM早在1996年就开始了量子计算的研究，是全球较早进入量子计算领域的玩家。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="量子咨询" scheme="http://example.com/categories/%E9%87%8F%E5%AD%90%E5%92%A8%E8%AF%A2/"/>
+    
+    <category term="全球产业观察" scheme="http://example.com/categories/%E9%87%8F%E5%AD%90%E5%92%A8%E8%AF%A2/%E5%85%A8%E7%90%83%E4%BA%A7%E4%B8%9A%E8%A7%82%E5%AF%9F/"/>
+    
+    
+    <category term="产业观察" scheme="http://example.com/tags/%E4%BA%A7%E4%B8%9A%E8%A7%82%E5%AF%9F/"/>
+    
+  </entry>
+  
+  <entry>
     <title>狂热下的量子计算会是一场泡沫吗？（上）</title>
     <link href="http://example.com/2021/05/17/company/qc-hype/"/>
     <id>http://example.com/2021/05/17/company/qc-hype/</id>
     <published>2021-05-17T05:00:00.000Z</published>
-    <updated>2021-05-17T02:46:48.840Z</updated>
+    <updated>2021-05-26T00:17:08.863Z</updated>
     
     
     <summary type="html">&lt;p&gt;来源：科学美国人（Scientific American）｜转译编写：求是量子&lt;/p&gt;
@@ -32,14 +55,10 @@
     
     <category term="量子咨询" scheme="http://example.com/categories/%E9%87%8F%E5%AD%90%E5%92%A8%E8%AF%A2/"/>
     
-    <category term="中国产业观察" scheme="http://example.com/categories/%E9%87%8F%E5%AD%90%E5%92%A8%E8%AF%A2/%E4%B8%AD%E5%9B%BD%E4%BA%A7%E4%B8%9A%E8%A7%82%E5%AF%9F/"/>
-    
-    <category term="量子科普" scheme="http://example.com/categories/%E9%87%8F%E5%AD%90%E7%A7%91%E6%99%AE/"/>
+    <category term="国际市场见解" scheme="http://example.com/categories/%E9%87%8F%E5%AD%90%E5%92%A8%E8%AF%A2/%E5%9B%BD%E9%99%85%E5%B8%82%E5%9C%BA%E8%A7%81%E8%A7%A3/"/>
     
     
     <category term="产业观察" scheme="http://example.com/tags/%E4%BA%A7%E4%B8%9A%E8%A7%82%E5%AF%9F/"/>
-    
-    <category term="科普" scheme="http://example.com/tags/%E7%A7%91%E6%99%AE/"/>
     
   </entry>
   
@@ -431,28 +450,6 @@
     
     <summary type="html">&lt;p&gt;来源：ORNL Quantum Computing Institute ｜ 转译编写：求是量子&lt;/p&gt;
 &lt;h2 id=&quot;中国初创公司将提供桌面级量子计算机&quot;&gt;&lt;a href=&quot;#中国初创公司将提供桌面级量子计算机&quot; class=&quot;headerlink&quot; title=&quot;中国初创公司将提供桌面级量子计算机&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://www.jdsupra.com/legalnews/friend-or-foe-the-doc-issues-new-2554920/&quot;&gt;中国初创公司将提供桌面级量子计算机&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;来自中国深圳的SpinQ量子初创公司宣称将销售桌面级的量子计算机，并且其售价将低于5000美元。该计算机基于核磁共振（Nuclear Magnetic Resonance）技术研发并将配备一颗2比特的量子处理器。这并不是该公司的第一台量子计算机。去年，该公司发布了一款价格约为50000美元的量子计算机。&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="量子资讯" scheme="http://example.com/categories/%E9%87%8F%E5%AD%90%E8%B5%84%E8%AE%AF/"/>
-    
-    <category term="科技与工业快讯" scheme="http://example.com/categories/%E9%87%8F%E5%AD%90%E8%B5%84%E8%AE%AF/%E7%A7%91%E6%8A%80%E4%B8%8E%E5%B7%A5%E4%B8%9A%E5%BF%AB%E8%AE%AF/"/>
-    
-    
-    <category term="量子快讯" scheme="http://example.com/tags/%E9%87%8F%E5%AD%90%E5%BF%AB%E8%AE%AF/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>全球量子科技与工业快讯第六期</title>
-    <link href="http://example.com/2021/01/25/news/news-6/"/>
-    <id>http://example.com/2021/01/25/news/news-6/</id>
-    <published>2021-01-25T06:00:00.000Z</published>
-    <updated>2021-04-22T00:11:51.805Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;来源：ORNL Quantum Computing Institute ｜ 转译编写：求是量子&lt;/p&gt;
-&lt;h2 id=&quot;美国能源部和国防部签署太空合作谅解备忘录&quot;&gt;&lt;a href=&quot;#美国能源部和国防部签署太空合作谅解备忘录&quot; class=&quot;headerlink&quot; title=&quot;美国能源部和国防部签署太空合作谅解备忘录&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://www.energy.gov/articles/department-energy-and-department-defense-sign-memorandum-understanding-space-cooperation&quot;&gt;美国能源部和国防部签署太空合作谅解备忘录&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;谅解备忘录包括以航天推进和动力为重点的合作，与未来产业相关的双重用途的关键和新兴技术（人工智能/机器学习，量子信息科学，通信基础设施，未来计算生态系统以及自动或远程驾驶车辆）和其他共同感兴趣的领域。&lt;/p&gt;</summary>
     
     
     
