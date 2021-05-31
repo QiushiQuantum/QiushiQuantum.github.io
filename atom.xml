@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-05-26T01:27:41.916Z</updated>
+  <updated>2021-05-31T16:43:58.111Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>全球量子科技与工业快讯第二十二期</title>
+    <link href="http://example.com/2021/05/31/news/news-22/"/>
+    <id>http://example.com/2021/05/31/news/news-22/</id>
+    <published>2021-05-31T05:00:00.000Z</published>
+    <updated>2021-05-31T16:43:58.111Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;来源：ORNL Quantum Computing Institute ｜ 转译编写：求是量子&lt;/p&gt;
+&lt;h2 id=&quot;欧盟将投资70亿欧元发展超算与量子计算机&quot;&gt;&lt;a href=&quot;#欧盟将投资70亿欧元发展超算与量子计算机&quot; class=&quot;headerlink&quot; title=&quot;欧盟将投资70亿欧元发展超算与量子计算机&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://www.hpcwire.com/off-the-wire/eu-commission-welcomes-councils-support-for-e7b-investment-in-supercomputing-infrastructure/&quot;&gt;欧盟将投资70亿欧元发展超算与量子计算机&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;欧洲联盟委员会（European Commission）近日通过了一项由自欧洲高性能计算联合担保制度（European High Performance Computing Joint Undertaking Regulation.）推进的提议。该提议将提供70亿欧元用于与下一代超算，量子计算机和兆兆位网络相关的研究，开发和应用。据悉，该项目资金将由“欧洲地平线”(（Horizon Europe）计划提供，后者的预算则达到了近千亿欧元（&lt;a href=&quot;/2021/03/22/news/news-13/&quot;&gt;《全球量子科技与工业快讯第十三期》&lt;/a&gt;）。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="量子资讯" scheme="http://example.com/categories/%E9%87%8F%E5%AD%90%E8%B5%84%E8%AE%AF/"/>
+    
+    <category term="科技与工业快讯" scheme="http://example.com/categories/%E9%87%8F%E5%AD%90%E8%B5%84%E8%AE%AF/%E7%A7%91%E6%8A%80%E4%B8%8E%E5%B7%A5%E4%B8%9A%E5%BF%AB%E8%AE%AF/"/>
+    
+    
+    <category term="量子快讯" scheme="http://example.com/tags/%E9%87%8F%E5%AD%90%E5%BF%AB%E8%AE%AF/"/>
+    
+  </entry>
   
   <entry>
     <title>帮用户开启量子旅程，IBM正为量子优势时代做好准备</title>
@@ -437,28 +459,6 @@
     
     
     <category term="产业观察" scheme="http://example.com/tags/%E4%BA%A7%E4%B8%9A%E8%A7%82%E5%AF%9F/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>全球量子科技与工业快讯第七期</title>
-    <link href="http://example.com/2021/02/01/news/news-7/"/>
-    <id>http://example.com/2021/02/01/news/news-7/</id>
-    <published>2021-02-01T06:00:00.000Z</published>
-    <updated>2021-04-22T00:14:42.275Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;来源：ORNL Quantum Computing Institute ｜ 转译编写：求是量子&lt;/p&gt;
-&lt;h2 id=&quot;中国初创公司将提供桌面级量子计算机&quot;&gt;&lt;a href=&quot;#中国初创公司将提供桌面级量子计算机&quot; class=&quot;headerlink&quot; title=&quot;中国初创公司将提供桌面级量子计算机&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://www.jdsupra.com/legalnews/friend-or-foe-the-doc-issues-new-2554920/&quot;&gt;中国初创公司将提供桌面级量子计算机&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;来自中国深圳的SpinQ量子初创公司宣称将销售桌面级的量子计算机，并且其售价将低于5000美元。该计算机基于核磁共振（Nuclear Magnetic Resonance）技术研发并将配备一颗2比特的量子处理器。这并不是该公司的第一台量子计算机。去年，该公司发布了一款价格约为50000美元的量子计算机。&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="量子资讯" scheme="http://example.com/categories/%E9%87%8F%E5%AD%90%E8%B5%84%E8%AE%AF/"/>
-    
-    <category term="科技与工业快讯" scheme="http://example.com/categories/%E9%87%8F%E5%AD%90%E8%B5%84%E8%AE%AF/%E7%A7%91%E6%8A%80%E4%B8%8E%E5%B7%A5%E4%B8%9A%E5%BF%AB%E8%AE%AF/"/>
-    
-    
-    <category term="量子快讯" scheme="http://example.com/tags/%E9%87%8F%E5%AD%90%E5%BF%AB%E8%AE%AF/"/>
     
   </entry>
   
