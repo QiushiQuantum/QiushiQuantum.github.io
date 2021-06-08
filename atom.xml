@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-05-31T16:46:24.116Z</updated>
+  <updated>2021-06-08T01:47:12.640Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>全球量子科技与工业快讯第二十三期</title>
+    <link href="http://example.com/2021/06/07/news/news-23/"/>
+    <id>http://example.com/2021/06/07/news/news-23/</id>
+    <published>2021-06-07T05:00:00.000Z</published>
+    <updated>2021-06-08T01:47:12.640Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;来源：ORNL Quantum Computing Institute ｜ 转译编写：求是量子&lt;/p&gt;
+&lt;h2 id=&quot;欧盟与EuroQCI卫星成立量子通信联盟&quot;&gt;&lt;a href=&quot;#欧盟与EuroQCI卫星成立量子通信联盟&quot; class=&quot;headerlink&quot; title=&quot;欧盟与EuroQCI卫星成立量子通信联盟&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://spacenews.com/europe-picks-euroqci-satellite-quantum-communications-consortium/&quot;&gt;欧盟与EuroQCI卫星成立量子通信联盟&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;随着初创公司Arqit融资4亿美元开发量子加密卫星（详情请参考&lt;a href=&quot;/2021/05/16/news/news-21/&quot;&gt;《全球量子科技与工业快讯第二十一期》&lt;/a&gt;），欧盟已委托空客（Airbus）领导的一个小组设计开发自己的量子通信网络。空客公司于5月31日表示，欧盟委员会（European Commission）与其签署了一份合同，以共同研发一个代号为EuroQCI的量子通信网络，从而确保整个欧洲大陆上关键基础设施的安全。EuroQCI的目标是使用量子光子态来分发加密密钥，使其比传统加密方法更安全。该项目将利用地面光纤与卫星通信来覆盖所有的欧盟成员及其海外领地。这份为期15个月的协议价值数百万欧元。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="量子资讯" scheme="http://example.com/categories/%E9%87%8F%E5%AD%90%E8%B5%84%E8%AE%AF/"/>
+    
+    <category term="科技与工业快讯" scheme="http://example.com/categories/%E9%87%8F%E5%AD%90%E8%B5%84%E8%AE%AF/%E7%A7%91%E6%8A%80%E4%B8%8E%E5%B7%A5%E4%B8%9A%E5%BF%AB%E8%AE%AF/"/>
+    
+    
+    <category term="量子快讯" scheme="http://example.com/tags/%E9%87%8F%E5%AD%90%E5%BF%AB%E8%AE%AF/"/>
+    
+  </entry>
   
   <entry>
     <title>全球量子科技与工业快讯第二十二期</title>
@@ -437,28 +459,6 @@
     
     
     <category term="量子快讯" scheme="http://example.com/tags/%E9%87%8F%E5%AD%90%E5%BF%AB%E8%AE%AF/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>构建万物互联，华为进军量子计算</title>
-    <link href="http://example.com/2021/02/10/company/huawei/"/>
-    <id>http://example.com/2021/02/10/company/huawei/</id>
-    <published>2021-02-10T06:00:00.000Z</published>
-    <updated>2021-04-22T00:21:28.220Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;来源：求是量子系列之“量子产业观察”&lt;/p&gt;
-&lt;p&gt;华为是全球领先的信息与通信技术（ICT）解决方案供应商，以构建万物互联的智能世界为口号，务实推动相关领域的科技进步。在2018年的华为全联接大会上发布的HiQ云服务平台，标志着华为开始布局量子计算领域。在前三期文章（见末尾）中，我们已经介绍了阿里，百度和腾讯（BAT）的量子产业布局。今天，我们来一窥究竟华为的量子求知之路。&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="量子咨询" scheme="http://example.com/categories/%E9%87%8F%E5%AD%90%E5%92%A8%E8%AF%A2/"/>
-    
-    <category term="中国产业观察" scheme="http://example.com/categories/%E9%87%8F%E5%AD%90%E5%92%A8%E8%AF%A2/%E4%B8%AD%E5%9B%BD%E4%BA%A7%E4%B8%9A%E8%A7%82%E5%AF%9F/"/>
-    
-    
-    <category term="产业观察" scheme="http://example.com/tags/%E4%BA%A7%E4%B8%9A%E8%A7%82%E5%AF%9F/"/>
     
   </entry>
   
