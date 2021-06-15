@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-06-08T01:47:12.640Z</updated>
+  <updated>2021-06-15T00:13:56.797Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>全球量子科技与工业快讯第二十四期</title>
+    <link href="http://example.com/2021/06/14/news/news-24/"/>
+    <id>http://example.com/2021/06/14/news/news-24/</id>
+    <published>2021-06-14T05:00:00.000Z</published>
+    <updated>2021-06-15T00:13:56.797Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;来源：ORNL Quantum Computing Institute ｜ 转译编写：求是量子&lt;/p&gt;
+&lt;h2 id=&quot;G7将共同建立卫星量子加密通讯网络&quot;&gt;&lt;a href=&quot;#G7将共同建立卫星量子加密通讯网络&quot; class=&quot;headerlink&quot; title=&quot;G7将共同建立卫星量子加密通讯网络&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://spacenews.com/governments-ally-for-federated-quantum-encryption-satellite-network/&quot;&gt;G7将共同建立卫星量子加密通讯网络&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;G7（Group of Seven）七个成员国（即美国、加拿大、英国、法国、德国、意大利和日本）将合作建立联合量子系统（Federated Quantum System，以下简写为FQS），以实现一个基于卫星的量子加密通讯网络。该项目将建立在英国初创公司Arqit现有的技术基础之上。Arqit正在开发商用量子通信网络，以帮助客户应对日益复杂的网络安全攻击。Arqit在此前成功融资4亿美元，详情请参考&lt;a href=&quot;/2021/05/16/news/news-21/&quot;&gt;《全球量子科技与工业快讯第二十一期》&lt;/a&gt;。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="量子资讯" scheme="http://example.com/categories/%E9%87%8F%E5%AD%90%E8%B5%84%E8%AE%AF/"/>
+    
+    <category term="科技与工业快讯" scheme="http://example.com/categories/%E9%87%8F%E5%AD%90%E8%B5%84%E8%AE%AF/%E7%A7%91%E6%8A%80%E4%B8%8E%E5%B7%A5%E4%B8%9A%E5%BF%AB%E8%AE%AF/"/>
+    
+    
+    <category term="量子快讯" scheme="http://example.com/tags/%E9%87%8F%E5%AD%90%E5%BF%AB%E8%AE%AF/"/>
+    
+  </entry>
   
   <entry>
     <title>全球量子科技与工业快讯第二十三期</title>
@@ -428,28 +450,6 @@
     
     <summary type="html">&lt;p&gt;来源：ORNL Quantum Computing Institute ｜ 转译编写：求是量子&lt;/p&gt;
 &lt;h2 id=&quot;英国石油将与IBM联合探索量子计算在能源领域的应用&quot;&gt;&lt;a href=&quot;#英国石油将与IBM联合探索量子计算在能源领域的应用&quot; class=&quot;headerlink&quot; title=&quot;英国石油将与IBM联合探索量子计算在能源领域的应用&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://www.hellenicshippingnews.com/bp-joins-the-ibm-quantum-network-to-advance-use-of-quantum-%E2%80%8Ecomputing-in-energy/&quot;&gt;英国石油将与IBM联合探索量子计算在能源领域的应用&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;世界最大的私营石油公司之一的BP公众有限公司（BP plc，前称英国石油）将和IBM合作利用量子计算来解决相关商业和工程问题。其探索将着重于提高效率以及降低碳排放。&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="量子资讯" scheme="http://example.com/categories/%E9%87%8F%E5%AD%90%E8%B5%84%E8%AE%AF/"/>
-    
-    <category term="科技与工业快讯" scheme="http://example.com/categories/%E9%87%8F%E5%AD%90%E8%B5%84%E8%AE%AF/%E7%A7%91%E6%8A%80%E4%B8%8E%E5%B7%A5%E4%B8%9A%E5%BF%AB%E8%AE%AF/"/>
-    
-    
-    <category term="量子快讯" scheme="http://example.com/tags/%E9%87%8F%E5%AD%90%E5%BF%AB%E8%AE%AF/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>全球量子科技与工业快讯第八期</title>
-    <link href="http://example.com/2021/02/14/news/news-8/"/>
-    <id>http://example.com/2021/02/14/news/news-8/</id>
-    <published>2021-02-14T06:00:00.000Z</published>
-    <updated>2021-04-22T00:18:43.099Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;来源：ORNL Quantum Computing Institute ｜ 转译编写：求是量子&lt;/p&gt;
-&lt;h2 id=&quot;德国开启GeQCos项目专攻超导量子计算&quot;&gt;&lt;a href=&quot;#德国开启GeQCos项目专攻超导量子计算&quot; class=&quot;headerlink&quot; title=&quot;德国开启GeQCos项目专攻超导量子计算&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://www.hpcwire.com/off-the-wire/geqcos-project-to-develop-german-quantum-computer-based-on-superconducting-qubits/&quot;&gt;德国开启GeQCos项目专攻超导量子计算&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;德国启动了一项为期4年的“德国超导量子计算机”（GeQCoS, German Quantum Computer based on Superconducting Qubits）计划。该项目汇集了德国在该领域的所有顶级科学家，致力于开发全新的量子处理器。该项目的最终目标是制造出基于全新设计的量子基超导比特处理器的原型机。&lt;/p&gt;</summary>
     
     
     
