@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-06-16T23:26:55.927Z</updated>
+  <updated>2021-06-20T16:27:10.428Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>全球量子科技与工业快讯第二十五期</title>
+    <link href="http://example.com/2021/06/20/news/news-25/"/>
+    <id>http://example.com/2021/06/20/news/news-25/</id>
+    <published>2021-06-20T05:00:00.000Z</published>
+    <updated>2021-06-20T16:27:10.428Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;来源：ORNL Quantum Computing Institute ｜ 转译编写：求是量子&lt;/p&gt;
+&lt;h2 id=&quot;IBM在德国揭晓其首个位于美国之外的量子计算机&quot;&gt;&lt;a href=&quot;#IBM在德国揭晓其首个位于美国之外的量子计算机&quot; class=&quot;headerlink&quot; title=&quot;IBM在德国揭晓其首个位于美国之外的量子计算机&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://www.wraltechwire.com/2021/06/15/ibm-unveils-new-quantum-computer-in-germany-first-outside-us/&quot;&gt;IBM在德国揭晓其首个位于美国之外的量子计算机&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;IBM于上周二在德国揭晓一台量子计算机，据悉，这是IBM首次在美国境内之外建造量子计算机（IBM目前在国美境内约有30台量子计算机）。此次建造的量子计算机型号为IBM Quantum System One，是目前欧洲计算能力最强的量子计算机。德国总理安格拉·默克尔（Angela Merkel）也通过远程视频参与了此次揭幕典礼，并表示德国将在未来5年内在量子计算领域投资2亿欧元（折合美元约2.4亿）。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="量子资讯" scheme="http://example.com/categories/%E9%87%8F%E5%AD%90%E8%B5%84%E8%AE%AF/"/>
+    
+    <category term="科技与工业快讯" scheme="http://example.com/categories/%E9%87%8F%E5%AD%90%E8%B5%84%E8%AE%AF/%E7%A7%91%E6%8A%80%E4%B8%8E%E5%B7%A5%E4%B8%9A%E5%BF%AB%E8%AE%AF/"/>
+    
+    
+    <category term="量子快讯" scheme="http://example.com/tags/%E9%87%8F%E5%AD%90%E5%BF%AB%E8%AE%AF/"/>
+    
+  </entry>
   
   <entry>
     <title>全球量子科技与工业快讯第二十四期</title>
@@ -428,28 +450,6 @@
     
     <summary type="html">&lt;p&gt;来源：ORNL Quantum Computing Institute ｜ 转译编写：求是量子&lt;/p&gt;
 &lt;h2 id=&quot;确定性多量子比特纠缠态的制备迎来突破&quot;&gt;&lt;a href=&quot;#确定性多量子比特纠缠态的制备迎来突破&quot; class=&quot;headerlink&quot; title=&quot;确定性多量子比特纠缠态的制备迎来突破&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://interestingengineering.com/quantum-computing-breakthrough-first-qubit-states-sent&quot;&gt;确定性多量子比特纠缠态的制备迎来突破&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;来自美国芝加哥大学（University of Chicago）的研究人员于近日在一个小型量子网络中成功实现了确定性多量子比特纠缠态的制备。该网络由少量超导量子比特组成，不同的量子比特通过超导同轴线连接。在实验中，研究人员最多将位于两端的6个超导比特相互纠缠。[相关文章Deterministic multi-qubit entanglement in a quantum network发表在顶级期刊《自然》]&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="量子资讯" scheme="http://example.com/categories/%E9%87%8F%E5%AD%90%E8%B5%84%E8%AE%AF/"/>
-    
-    <category term="科技与工业快讯" scheme="http://example.com/categories/%E9%87%8F%E5%AD%90%E8%B5%84%E8%AE%AF/%E7%A7%91%E6%8A%80%E4%B8%8E%E5%B7%A5%E4%B8%9A%E5%BF%AB%E8%AE%AF/"/>
-    
-    
-    <category term="量子快讯" scheme="http://example.com/tags/%E9%87%8F%E5%AD%90%E5%BF%AB%E8%AE%AF/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>全球量子科技与工业快讯第九期</title>
-    <link href="http://example.com/2021/02/22/news/news-9/"/>
-    <id>http://example.com/2021/02/22/news/news-9/</id>
-    <published>2021-02-22T06:00:00.000Z</published>
-    <updated>2021-04-22T00:27:38.017Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;来源：ORNL Quantum Computing Institute ｜ 转译编写：求是量子&lt;/p&gt;
-&lt;h2 id=&quot;英国石油将与IBM联合探索量子计算在能源领域的应用&quot;&gt;&lt;a href=&quot;#英国石油将与IBM联合探索量子计算在能源领域的应用&quot; class=&quot;headerlink&quot; title=&quot;英国石油将与IBM联合探索量子计算在能源领域的应用&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://www.hellenicshippingnews.com/bp-joins-the-ibm-quantum-network-to-advance-use-of-quantum-%E2%80%8Ecomputing-in-energy/&quot;&gt;英国石油将与IBM联合探索量子计算在能源领域的应用&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;世界最大的私营石油公司之一的BP公众有限公司（BP plc，前称英国石油）将和IBM合作利用量子计算来解决相关商业和工程问题。其探索将着重于提高效率以及降低碳排放。&lt;/p&gt;</summary>
     
     
     
