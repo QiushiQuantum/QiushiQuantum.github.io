@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-06-20T16:27:10.428Z</updated>
+  <updated>2021-07-02T01:05:53.644Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>全球量子科技与工业快讯第二十六期</title>
+    <link href="http://example.com/2021/07/01/news/news-26/"/>
+    <id>http://example.com/2021/07/01/news/news-26/</id>
+    <published>2021-07-01T05:00:00.000Z</published>
+    <updated>2021-07-02T01:05:53.644Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;来源：ORNL Quantum Computing Institute ｜ 转译编写：求是量子&lt;/p&gt;
+&lt;h2 id=&quot;英国初创Arqit公司将于2023年开始用卫星发送量子密钥&quot;&gt;&lt;a href=&quot;#英国初创Arqit公司将于2023年开始用卫星发送量子密钥&quot; class=&quot;headerlink&quot; title=&quot;英国初创Arqit公司将于2023年开始用卫星发送量子密钥&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://www.space.com/arqit-quantum-key-distribution-space&quot;&gt;英国初创Arqit公司将于2023年开始用卫星发送量子密钥&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;英国初创公司Arqit正准备在短短两年内用卫星向全球提供牢不可破的量子加密密钥。Arqit公司最近宣布与美国国防巨头诺斯罗普·格鲁曼公司和英国电信巨头BT公司合作，计划在2023年从英国康沃尔太空港发射两颗用于量子密钥分发的卫星，并搭载维珍轨道公司的LauncherOne。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="量子资讯" scheme="http://example.com/categories/%E9%87%8F%E5%AD%90%E8%B5%84%E8%AE%AF/"/>
+    
+    <category term="科技与工业快讯" scheme="http://example.com/categories/%E9%87%8F%E5%AD%90%E8%B5%84%E8%AE%AF/%E7%A7%91%E6%8A%80%E4%B8%8E%E5%B7%A5%E4%B8%9A%E5%BF%AB%E8%AE%AF/"/>
+    
+    
+    <category term="量子快讯" scheme="http://example.com/tags/%E9%87%8F%E5%AD%90%E5%BF%AB%E8%AE%AF/"/>
+    
+  </entry>
   
   <entry>
     <title>全球量子科技与工业快讯第二十五期</title>
@@ -428,28 +450,6 @@
     
     <summary type="html">&lt;p&gt;来源：ORNL Quantum Computing Institute ｜ 转译编写：求是量子&lt;/p&gt;
 &lt;h2 id=&quot;中国将在下个五年持续增加基础科研投入&quot;&gt;&lt;a href=&quot;#中国将在下个五年持续增加基础科研投入&quot; class=&quot;headerlink&quot; title=&quot;中国将在下个五年持续增加基础科研投入&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://www.reuters.com/article/us-china-parliament-technology-idUSKBN2AX055&quot;&gt;中国将在下个五年持续增加基础科研投入&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;在中华人民共和国第十三届全国人民代表大会第四次会议上宣读的一份政府工作报告指出：中国将在未来五年内持续增加科研投入，且每年增长不低于7%。其中，用于基础科研的经费将在2021年增加10.6%。在该五年计划中，中国将重点关注以下7个领域：下一代人工智能，量子信息，脑科学，半导体，基因生物工程，临床医药以及深空深海探测。该报告还指出中国将新建更多的国家实验室以支持量子信息与人工智能的研究。&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="量子资讯" scheme="http://example.com/categories/%E9%87%8F%E5%AD%90%E8%B5%84%E8%AE%AF/"/>
-    
-    <category term="科技与工业快讯" scheme="http://example.com/categories/%E9%87%8F%E5%AD%90%E8%B5%84%E8%AE%AF/%E7%A7%91%E6%8A%80%E4%B8%8E%E5%B7%A5%E4%B8%9A%E5%BF%AB%E8%AE%AF/"/>
-    
-    
-    <category term="量子快讯" scheme="http://example.com/tags/%E9%87%8F%E5%AD%90%E5%BF%AB%E8%AE%AF/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>全球量子科技与工业快讯第十期</title>
-    <link href="http://example.com/2021/03/01/news/news-10/"/>
-    <id>http://example.com/2021/03/01/news/news-10/</id>
-    <published>2021-03-01T06:00:00.000Z</published>
-    <updated>2021-04-22T00:33:18.335Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;来源：ORNL Quantum Computing Institute ｜ 转译编写：求是量子&lt;/p&gt;
-&lt;h2 id=&quot;确定性多量子比特纠缠态的制备迎来突破&quot;&gt;&lt;a href=&quot;#确定性多量子比特纠缠态的制备迎来突破&quot; class=&quot;headerlink&quot; title=&quot;确定性多量子比特纠缠态的制备迎来突破&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://interestingengineering.com/quantum-computing-breakthrough-first-qubit-states-sent&quot;&gt;确定性多量子比特纠缠态的制备迎来突破&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;来自美国芝加哥大学（University of Chicago）的研究人员于近日在一个小型量子网络中成功实现了确定性多量子比特纠缠态的制备。该网络由少量超导量子比特组成，不同的量子比特通过超导同轴线连接。在实验中，研究人员最多将位于两端的6个超导比特相互纠缠。[相关文章Deterministic multi-qubit entanglement in a quantum network发表在顶级期刊《自然》]&lt;/p&gt;</summary>
     
     
     
