@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-07-02T01:05:53.644Z</updated>
+  <updated>2021-07-06T18:20:26.881Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>全球量子科技与工业快讯第二十七期</title>
+    <link href="http://example.com/2021/07/05/news/news-27/"/>
+    <id>http://example.com/2021/07/05/news/news-27/</id>
+    <published>2021-07-05T05:00:00.000Z</published>
+    <updated>2021-07-06T18:20:26.881Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;来源：ORNL Quantum Computing Institute ｜ 转译编写：求是量子&lt;/p&gt;
+&lt;h2 id=&quot;英伟达平台加速量子电路仿真&quot;&gt;&lt;a href=&quot;#英伟达平台加速量子电路仿真&quot; class=&quot;headerlink&quot; title=&quot;英伟达平台加速量子电路仿真&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://www.hpcwire.com/off-the-wire/nvidia-platform-accelerates-quantum-circuit-simulation-ecosystem/&quot;&gt;英伟达平台加速量子电路仿真&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;英伟达（NVIDIA）在GTC(GPU Technology Conference) 2021上发布了cuQuantum软件开发工具包（cuQuantum SDK），以加快gpu上的量子线路的模拟。我们曾在&lt;a href=&quot;/2021/04/19/news/news-17/&quot;&gt;《全球量子科技与工业快讯第十七期》&lt;/a&gt;中报道过，该项目是英伟达与美国加州理工学院（California Institute of Technology）共同开发的。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="量子资讯" scheme="http://example.com/categories/%E9%87%8F%E5%AD%90%E8%B5%84%E8%AE%AF/"/>
+    
+    <category term="科技与工业快讯" scheme="http://example.com/categories/%E9%87%8F%E5%AD%90%E8%B5%84%E8%AE%AF/%E7%A7%91%E6%8A%80%E4%B8%8E%E5%B7%A5%E4%B8%9A%E5%BF%AB%E8%AE%AF/"/>
+    
+    
+    <category term="量子快讯" scheme="http://example.com/tags/%E9%87%8F%E5%AD%90%E5%BF%AB%E8%AE%AF/"/>
+    
+  </entry>
   
   <entry>
     <title>全球量子科技与工业快讯第二十六期</title>
@@ -428,28 +450,6 @@
     
     <summary type="html">&lt;p&gt;来源：ORNL Quantum Computing Institute ｜ 转译编写：求是量子&lt;/p&gt;
 &lt;h2 id=&quot;中国或将成为国际量子技术的领导者&quot;&gt;&lt;a href=&quot;#中国或将成为国际量子技术的领导者&quot; class=&quot;headerlink&quot; title=&quot;中国或将成为国际量子技术的领导者&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://asia.nikkei.com/Spotlight/Datawatch/China-emerges-as-quantum-tech-leader-while-Biden-vows-to-catch-up&quot;&gt;中国或将成为国际量子技术的领导者&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;随着量子技术的发展，中美对于新兴科技研发的竞争也进入了新的阶段。根据来自Valuenex的数据，中国拥有超过3000个和量子技术相关的专利，是第二名美国的2倍，第三名日本的5倍。其中，在量子通信和加密相关的硬件，华为（Huawei）拥有100个专利，而北京邮电大学（Beijing University of Posts and Telecommunications）拥有84个。为了保持优势地位，美国除了进一步加大本土对于量子技术相关的投资，拜登政府或将寻求与日本等其他国家的合作。&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="量子资讯" scheme="http://example.com/categories/%E9%87%8F%E5%AD%90%E8%B5%84%E8%AE%AF/"/>
-    
-    <category term="科技与工业快讯" scheme="http://example.com/categories/%E9%87%8F%E5%AD%90%E8%B5%84%E8%AE%AF/%E7%A7%91%E6%8A%80%E4%B8%8E%E5%B7%A5%E4%B8%9A%E5%BF%AB%E8%AE%AF/"/>
-    
-    
-    <category term="量子快讯" scheme="http://example.com/tags/%E9%87%8F%E5%AD%90%E5%BF%AB%E8%AE%AF/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>全球量子科技与工业快讯第十一期</title>
-    <link href="http://example.com/2021/03/08/news/news-11/"/>
-    <id>http://example.com/2021/03/08/news/news-11/</id>
-    <published>2021-03-08T06:00:00.000Z</published>
-    <updated>2021-04-22T01:19:18.587Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;来源：ORNL Quantum Computing Institute ｜ 转译编写：求是量子&lt;/p&gt;
-&lt;h2 id=&quot;中国将在下个五年持续增加基础科研投入&quot;&gt;&lt;a href=&quot;#中国将在下个五年持续增加基础科研投入&quot; class=&quot;headerlink&quot; title=&quot;中国将在下个五年持续增加基础科研投入&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://www.reuters.com/article/us-china-parliament-technology-idUSKBN2AX055&quot;&gt;中国将在下个五年持续增加基础科研投入&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;在中华人民共和国第十三届全国人民代表大会第四次会议上宣读的一份政府工作报告指出：中国将在未来五年内持续增加科研投入，且每年增长不低于7%。其中，用于基础科研的经费将在2021年增加10.6%。在该五年计划中，中国将重点关注以下7个领域：下一代人工智能，量子信息，脑科学，半导体，基因生物工程，临床医药以及深空深海探测。该报告还指出中国将新建更多的国家实验室以支持量子信息与人工智能的研究。&lt;/p&gt;</summary>
     
     
     
