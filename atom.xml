@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-07-06T18:20:26.881Z</updated>
+  <updated>2021-07-13T01:12:44.991Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>全球量子科技与工业快讯第二十八期</title>
+    <link href="http://example.com/2021/07/12/news/news-28/"/>
+    <id>http://example.com/2021/07/12/news/news-28/</id>
+    <published>2021-07-12T05:00:00.000Z</published>
+    <updated>2021-07-13T01:12:44.991Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;来源：ORNL Quantum Computing Institute ｜ 转译编写：求是量子&lt;/p&gt;
+&lt;h2 id=&quot;KPN将在荷兰现有光纤基础上建立量子安全网络&quot;&gt;&lt;a href=&quot;#KPN将在荷兰现有光纤基础上建立量子安全网络&quot; class=&quot;headerlink&quot; title=&quot;KPN将在荷兰现有光纤基础上建立量子安全网络&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://www.capacitymedia.com/articles/3829046/kpn-aims-for-quantum-secure-network-across-netherlands-on-existing-fibre&quot;&gt;KPN将在荷兰现有光纤基础上建立量子安全网络&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;荷兰皇家电信集团（Koninklijke KPN N.V., KPN）计划利用现有的光纤基础设施，在荷兰范围内建立一个量子安全电信网络。该公司近日表示，希望将该网络扩展到比利时、法国和德国，并以此作为建立高度安全的欧洲通信网络的第一步。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="量子资讯" scheme="http://example.com/categories/%E9%87%8F%E5%AD%90%E8%B5%84%E8%AE%AF/"/>
+    
+    <category term="科技与工业快讯" scheme="http://example.com/categories/%E9%87%8F%E5%AD%90%E8%B5%84%E8%AE%AF/%E7%A7%91%E6%8A%80%E4%B8%8E%E5%B7%A5%E4%B8%9A%E5%BF%AB%E8%AE%AF/"/>
+    
+    
+    <category term="量子快讯" scheme="http://example.com/tags/%E9%87%8F%E5%AD%90%E5%BF%AB%E8%AE%AF/"/>
+    
+  </entry>
   
   <entry>
     <title>全球量子科技与工业快讯第二十七期</title>
@@ -437,28 +459,6 @@
     
     
     <category term="产业观察" scheme="http://example.com/tags/%E4%BA%A7%E4%B8%9A%E8%A7%82%E5%AF%9F/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>全球量子科技与工业快讯第十二期</title>
-    <link href="http://example.com/2021/03/15/news/news-12/"/>
-    <id>http://example.com/2021/03/15/news/news-12/</id>
-    <published>2021-03-15T05:00:00.000Z</published>
-    <updated>2021-04-22T01:19:11.844Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;来源：ORNL Quantum Computing Institute ｜ 转译编写：求是量子&lt;/p&gt;
-&lt;h2 id=&quot;中国或将成为国际量子技术的领导者&quot;&gt;&lt;a href=&quot;#中国或将成为国际量子技术的领导者&quot; class=&quot;headerlink&quot; title=&quot;中国或将成为国际量子技术的领导者&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://asia.nikkei.com/Spotlight/Datawatch/China-emerges-as-quantum-tech-leader-while-Biden-vows-to-catch-up&quot;&gt;中国或将成为国际量子技术的领导者&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;随着量子技术的发展，中美对于新兴科技研发的竞争也进入了新的阶段。根据来自Valuenex的数据，中国拥有超过3000个和量子技术相关的专利，是第二名美国的2倍，第三名日本的5倍。其中，在量子通信和加密相关的硬件，华为（Huawei）拥有100个专利，而北京邮电大学（Beijing University of Posts and Telecommunications）拥有84个。为了保持优势地位，美国除了进一步加大本土对于量子技术相关的投资，拜登政府或将寻求与日本等其他国家的合作。&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="量子资讯" scheme="http://example.com/categories/%E9%87%8F%E5%AD%90%E8%B5%84%E8%AE%AF/"/>
-    
-    <category term="科技与工业快讯" scheme="http://example.com/categories/%E9%87%8F%E5%AD%90%E8%B5%84%E8%AE%AF/%E7%A7%91%E6%8A%80%E4%B8%8E%E5%B7%A5%E4%B8%9A%E5%BF%AB%E8%AE%AF/"/>
-    
-    
-    <category term="量子快讯" scheme="http://example.com/tags/%E9%87%8F%E5%AD%90%E5%BF%AB%E8%AE%AF/"/>
     
   </entry>
   
