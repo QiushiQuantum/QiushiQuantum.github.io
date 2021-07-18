@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-07-13T01:12:44.991Z</updated>
+  <updated>2021-07-18T14:23:03.354Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>致力于“量子优越性”的实现，全球在线搜索巨头谷歌引领量子科技的发展</title>
+    <link href="http://example.com/2021/07/18/company/google/"/>
+    <id>http://example.com/2021/07/18/company/google/</id>
+    <published>2021-07-18T05:00:00.000Z</published>
+    <updated>2021-07-18T14:23:03.354Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;来源：求是量子系列之“量子产业观察”&lt;/p&gt;
+&lt;p&gt;在&lt;a href=&quot;/2021/05/25/company/IBM/&quot;&gt;上一期的产业观察&lt;/a&gt;中，我们领略了IBM在量子领域的布局，见证了IBM是如何为即将到来的量子优势时代做好准备。今天求是量子为大家介绍另一家我们耳熟能详的公司：谷歌（Google）。目前，谷歌是公认的全球最大的搜索引擎公司。而在量子领域，很多人也听说过谷歌在2019年宣称率先实现“量子优越性”（quantum advantage）。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="量子咨询" scheme="http://example.com/categories/%E9%87%8F%E5%AD%90%E5%92%A8%E8%AF%A2/"/>
+    
+    <category term="全球产业观察" scheme="http://example.com/categories/%E9%87%8F%E5%AD%90%E5%92%A8%E8%AF%A2/%E5%85%A8%E7%90%83%E4%BA%A7%E4%B8%9A%E8%A7%82%E5%AF%9F/"/>
+    
+    
+    <category term="产业观察" scheme="http://example.com/tags/%E4%BA%A7%E4%B8%9A%E8%A7%82%E5%AF%9F/"/>
+    
+  </entry>
   
   <entry>
     <title>全球量子科技与工业快讯第二十八期</title>
@@ -436,29 +458,6 @@
     
     
     <category term="量子快讯" scheme="http://example.com/tags/%E9%87%8F%E5%AD%90%E5%BF%AB%E8%AE%AF/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>让量子计算机走出实验室，本源量子的成长之路</title>
-    <link href="http://example.com/2021/03/17/company/benyuan/"/>
-    <id>http://example.com/2021/03/17/company/benyuan/</id>
-    <published>2021-03-17T05:00:00.000Z</published>
-    <updated>2021-04-21T15:30:23.221Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;来源：求是量子系列之“量子产业观察”&lt;/p&gt;
-&lt;p&gt;在前面四期文章中，我们已经介绍了四大物联网龙头企业百度，阿里，腾讯（BAT）以及华为（Huawei）的量子产业布局。从本篇（第五期）起，让我们把目光转向活跃在一线的初创公司，看看这些相对“微小”的力量是如何汇聚在一起，引领着我国高新技术产业，尤其是量子信息和计算产业的发展。&lt;/p&gt;
-&lt;p&gt;今天的主角是合肥本源量子计算科技有限责任公司（以下简称“本源量子”）。该公司是一家专注于研制量子计算机的高新科技企业。让量子计算走出实验室，真正为人类社会服务，是本源人的征途。&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="量子咨询" scheme="http://example.com/categories/%E9%87%8F%E5%AD%90%E5%92%A8%E8%AF%A2/"/>
-    
-    <category term="中国产业观察" scheme="http://example.com/categories/%E9%87%8F%E5%AD%90%E5%92%A8%E8%AF%A2/%E4%B8%AD%E5%9B%BD%E4%BA%A7%E4%B8%9A%E8%A7%82%E5%AF%9F/"/>
-    
-    
-    <category term="产业观察" scheme="http://example.com/tags/%E4%BA%A7%E4%B8%9A%E8%A7%82%E5%AF%9F/"/>
     
   </entry>
   
