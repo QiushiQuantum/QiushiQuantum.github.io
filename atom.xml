@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-07-18T14:23:03.354Z</updated>
+  <updated>2021-07-21T01:10:28.543Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,11 +17,33 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>全球量子科技与工业快讯第二十九期</title>
+    <link href="http://example.com/2021/07/20/news/news-29/"/>
+    <id>http://example.com/2021/07/20/news/news-29/</id>
+    <published>2021-07-20T05:00:00.000Z</published>
+    <updated>2021-07-21T01:10:28.543Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;来源：ORNL Quantum Computing Institute ｜ 转译编写：求是量子&lt;/p&gt;
+&lt;h2 id=&quot;卢森堡计划建立为量子通信开展基建&quot;&gt;&lt;a href=&quot;#卢森堡计划建立为量子通信开展基建&quot; class=&quot;headerlink&quot; title=&quot;卢森堡计划建立为量子通信开展基建&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://www.businesswire.com/news/home/20210712005866/en/SES-led-Consortium-to-Define-Luxembourg%E2%80%99s-Quantum-Communication-Infrastructure-for-Europe&quot;&gt;卢森堡计划建立为量子通信开展基建&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;卢森堡量子通信基础设施（Luxembourg’s Quantum Communications Infrastructure，LuxQCI）是一项由卢森堡国务院（Ministry of State）下属的媒体、电信和数字政策部(Department of Media, Telecommunications and Digital Policy，SMC)协调，并在卢森堡国家LuxIMPULSE计划下得到欧洲航天局(European Space Agency，ESA)和卢森堡航天局(Luxembourg Space Agency，LSA)的支持下成立的计划。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="量子资讯" scheme="http://example.com/categories/%E9%87%8F%E5%AD%90%E8%B5%84%E8%AE%AF/"/>
+    
+    <category term="科技与工业快讯" scheme="http://example.com/categories/%E9%87%8F%E5%AD%90%E8%B5%84%E8%AE%AF/%E7%A7%91%E6%8A%80%E4%B8%8E%E5%B7%A5%E4%B8%9A%E5%BF%AB%E8%AE%AF/"/>
+    
+    
+    <category term="量子快讯" scheme="http://example.com/tags/%E9%87%8F%E5%AD%90%E5%BF%AB%E8%AE%AF/"/>
+    
+  </entry>
+  
+  <entry>
     <title>致力于“量子优越性”的实现，全球在线搜索巨头谷歌引领量子科技的发展</title>
     <link href="http://example.com/2021/07/18/company/google/"/>
     <id>http://example.com/2021/07/18/company/google/</id>
     <published>2021-07-18T05:00:00.000Z</published>
-    <updated>2021-07-18T14:23:03.354Z</updated>
+    <updated>2021-07-21T01:11:44.335Z</updated>
     
     
     <summary type="html">&lt;p&gt;来源：求是量子系列之“量子产业观察”&lt;/p&gt;
@@ -427,28 +449,6 @@
     
     <summary type="html">&lt;p&gt;来源：ORNL Quantum Computing Institute ｜ 转译编写：求是量子&lt;/p&gt;
 &lt;h2 id=&quot;拜登承诺将把GDP的“近2-”用于科学研究&quot;&gt;&lt;a href=&quot;#拜登承诺将把GDP的“近2-”用于科学研究&quot; class=&quot;headerlink&quot; title=&quot;拜登承诺将把GDP的“近2%”用于科学研究&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://www.nextgov.com/cio-briefing/2021/03/biden-commits-investing-closer-2-gdp-science-research/172933/&quot;&gt;拜登承诺将把GDP的“近2%”用于科学研究&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;拜登在他的第一次正式新闻发布会上提到了基础设施、移民、量子计算等更多内容。“事实上，赢得未来取决于谁能拥有相关的技术——在量子计算中，包括医学领域在内的所有事物都将如此。”&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="量子资讯" scheme="http://example.com/categories/%E9%87%8F%E5%AD%90%E8%B5%84%E8%AE%AF/"/>
-    
-    <category term="科技与工业快讯" scheme="http://example.com/categories/%E9%87%8F%E5%AD%90%E8%B5%84%E8%AE%AF/%E7%A7%91%E6%8A%80%E4%B8%8E%E5%B7%A5%E4%B8%9A%E5%BF%AB%E8%AE%AF/"/>
-    
-    
-    <category term="量子快讯" scheme="http://example.com/tags/%E9%87%8F%E5%AD%90%E5%BF%AB%E8%AE%AF/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>全球量子科技与工业快讯第十三期</title>
-    <link href="http://example.com/2021/03/22/news/news-13/"/>
-    <id>http://example.com/2021/03/22/news/news-13/</id>
-    <published>2021-03-22T05:00:00.000Z</published>
-    <updated>2021-04-22T01:18:52.413Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;来源：ORNL Quantum Computing Institute ｜ 转译编写：求是量子&lt;/p&gt;
-&lt;h2 id=&quot;美国能源部投资3600万美元用于研发量子计算与通信技术&quot;&gt;&lt;a href=&quot;#美国能源部投资3600万美元用于研发量子计算与通信技术&quot; class=&quot;headerlink&quot; title=&quot;美国能源部投资3600万美元用于研发量子计算与通信技术&quot;&gt;&lt;/a&gt;美国能源部投资3600万美元用于研发量子计算与通信技术&lt;/h2&gt;&lt;p&gt;当地时间3月9日，美国能源部(U.S. Department of Energy)宣布将计划为量子信息技术相关的研究提供总计3000万美元的经费。这项名为“量子信息技术与研究基建”(Quantum Information Science and Research Infrastructure)的项目旨在帮助研究人员更好地合成，制造和理解量子结构与现象，同时也使得更多的研究人员与机构可以通过能源部旗下的5所国家级纳米科学研究中心来使用这些技术。&lt;a href=&quot;https://insidehpc.com/2021/03/doe-to-provide-12m-for-research-on-5g-and-quantum-networking/&quot;&gt;相关链接&lt;/a&gt;&lt;/p&gt;</summary>
     
     
     
