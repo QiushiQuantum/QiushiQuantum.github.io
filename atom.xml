@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-07-21T01:13:08.020Z</updated>
+  <updated>2021-07-28T15:04:05.413Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>全球量子科技与工业快讯第三十期</title>
+    <link href="http://example.com/2021/07/27/news/news-30/"/>
+    <id>http://example.com/2021/07/27/news/news-30/</id>
+    <published>2021-07-27T05:00:00.000Z</published>
+    <updated>2021-07-28T15:04:05.413Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;来源：ORNL Quantum Computing Institute ｜ 转译编写：求是量子&lt;/p&gt;
+&lt;h2 id=&quot;剑桥量子提出新的用以解决组合优化问题的量子算法&quot;&gt;&lt;a href=&quot;#剑桥量子提出新的用以解决组合优化问题的量子算法&quot; class=&quot;headerlink&quot; title=&quot;剑桥量子提出新的用以解决组合优化问题的量子算法&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://insidehpc.com/2021/07/cambridge-quantum-algorithm-solves-combinatorial-optimisation-problems-faster/&quot;&gt;剑桥量子提出新的用以解决组合优化问题的量子算法&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;组合优化问题（Combinatorial Optimisation）是一类极难的优化问题，并在不同的领域拥有非常广泛的应用，如旅行商问题、车辆路线规划以及作业车间调度等。经典计算机通常难以处理非常大的组合优化问题，而量子计算机被认为在解决此类问题上存在一定的优势。近日，剑桥量子计算（Cambridge Quantum Computing，CQC）宣称发现了一种新的量子算法，可以利用当下的有噪声的中小型量子计算解决商业和不同工业中普遍存在的组合优化问题。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="量子资讯" scheme="http://example.com/categories/%E9%87%8F%E5%AD%90%E8%B5%84%E8%AE%AF/"/>
+    
+    <category term="科技与工业快讯" scheme="http://example.com/categories/%E9%87%8F%E5%AD%90%E8%B5%84%E8%AE%AF/%E7%A7%91%E6%8A%80%E4%B8%8E%E5%B7%A5%E4%B8%9A%E5%BF%AB%E8%AE%AF/"/>
+    
+    
+    <category term="量子快讯" scheme="http://example.com/tags/%E9%87%8F%E5%AD%90%E5%BF%AB%E8%AE%AF/"/>
+    
+  </entry>
   
   <entry>
     <title>全球量子科技与工业快讯第二十九期</title>
@@ -427,28 +449,6 @@
     
     <summary type="html">&lt;p&gt;来源：ORNL Quantum Computing Institute ｜ 转译编写：求是量子&lt;/p&gt;
 &lt;h2 id=&quot;IBM提供量子工业界首个开发者认证&quot;&gt;&lt;a href=&quot;#IBM提供量子工业界首个开发者认证&quot; class=&quot;headerlink&quot; title=&quot;IBM提供量子工业界首个开发者认证&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://www.ibm.com/blogs/research/2021/03/quantum-developer-certification/&quot;&gt;IBM提供量子工业界首个开发者认证&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;国际商业机器公司(IBM)于近日宣布提供全球首个量子计算机编程的开发者认证。该测试一共有60道题目，限时90分钟。答对44道题及以上即可通过测试。目前该测试仅支持英文，个人可以通过访问&lt;a href=&quot;https://www.ibm.com/certify/exam?id=C1000-112&quot;&gt;测试官方网站&lt;/a&gt;注册并参与测试。&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="量子资讯" scheme="http://example.com/categories/%E9%87%8F%E5%AD%90%E8%B5%84%E8%AE%AF/"/>
-    
-    <category term="科技与工业快讯" scheme="http://example.com/categories/%E9%87%8F%E5%AD%90%E8%B5%84%E8%AE%AF/%E7%A7%91%E6%8A%80%E4%B8%8E%E5%B7%A5%E4%B8%9A%E5%BF%AB%E8%AE%AF/"/>
-    
-    
-    <category term="量子快讯" scheme="http://example.com/tags/%E9%87%8F%E5%AD%90%E5%BF%AB%E8%AE%AF/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>全球量子科技与工业快讯第十四期</title>
-    <link href="http://example.com/2021/03/29/news/news-14/"/>
-    <id>http://example.com/2021/03/29/news/news-14/</id>
-    <published>2021-03-29T05:00:00.000Z</published>
-    <updated>2021-04-22T01:18:42.195Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;来源：ORNL Quantum Computing Institute ｜ 转译编写：求是量子&lt;/p&gt;
-&lt;h2 id=&quot;拜登承诺将把GDP的“近2-”用于科学研究&quot;&gt;&lt;a href=&quot;#拜登承诺将把GDP的“近2-”用于科学研究&quot; class=&quot;headerlink&quot; title=&quot;拜登承诺将把GDP的“近2%”用于科学研究&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://www.nextgov.com/cio-briefing/2021/03/biden-commits-investing-closer-2-gdp-science-research/172933/&quot;&gt;拜登承诺将把GDP的“近2%”用于科学研究&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;拜登在他的第一次正式新闻发布会上提到了基础设施、移民、量子计算等更多内容。“事实上，赢得未来取决于谁能拥有相关的技术——在量子计算中，包括医学领域在内的所有事物都将如此。”&lt;/p&gt;</summary>
     
     
     
