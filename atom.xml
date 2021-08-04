@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-07-28T15:04:05.413Z</updated>
+  <updated>2021-08-04T15:03:01.628Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>全球量子科技与工业快讯第三十一期</title>
+    <link href="http://example.com/2021/08/03/news/news-31/"/>
+    <id>http://example.com/2021/08/03/news/news-31/</id>
+    <published>2021-08-03T05:00:00.000Z</published>
+    <updated>2021-08-04T15:03:01.628Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;来源：ORNL Quantum Computing Institute ｜ 转译编写：求是量子&lt;/p&gt;
+&lt;h2 id=&quot;超导线路中的新量子比特方案&quot;&gt;&lt;a href=&quot;#超导线路中的新量子比特方案&quot; class=&quot;headerlink&quot; title=&quot;超导线路中的新量子比特方案&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://www.hpcwire.com/off-the-wire/yale-researchers-combining-2-approaches-to-advance-quantum-computing/&quot;&gt;超导线路中的新量子比特方案&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;量子计算机具有超越所有传统计算系统的潜力,而目前在固体材料中，最具潜力的两种方案便是超导线路和半导体量子点。它们分别通过操控超导电流和电子的自旋来实现量子信息的处理。近日，一篇刊登在顶级期刊《科学》（Science）上题为 &lt;a href=&quot;https://doi.org/10.1126/science.abf0345&quot;&gt;Coherent manipulation of an Andreev spin qubit&lt;/a&gt; 的文章则提出了一种新的方案。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="量子资讯" scheme="http://example.com/categories/%E9%87%8F%E5%AD%90%E8%B5%84%E8%AE%AF/"/>
+    
+    <category term="科技与工业快讯" scheme="http://example.com/categories/%E9%87%8F%E5%AD%90%E8%B5%84%E8%AE%AF/%E7%A7%91%E6%8A%80%E4%B8%8E%E5%B7%A5%E4%B8%9A%E5%BF%AB%E8%AE%AF/"/>
+    
+    
+    <category term="量子快讯" scheme="http://example.com/tags/%E9%87%8F%E5%AD%90%E5%BF%AB%E8%AE%AF/"/>
+    
+  </entry>
   
   <entry>
     <title>全球量子科技与工业快讯第三十期</title>
@@ -427,28 +449,6 @@
     
     <summary type="html">&lt;p&gt;来源：ORNL Quantum Computing Institute ｜ 转译编写：求是量子&lt;/p&gt;
 &lt;h2 id=&quot;统一量子计算机的效用&quot;&gt;&lt;a href=&quot;#统一量子计算机的效用&quot; class=&quot;headerlink&quot; title=&quot;统一量子计算机的效用&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://www.darpa.mil/news-events/2021-04-02&quot;&gt;统一量子计算机的效用&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;美国国防高级研究计划局(Defense Advanced Research Projects Agency，DARPA)宣布了一项名为“量子基准测试”(Quantum Benchmarking，QB)的项目。该项目将专注于一个非常基本的问题：我们如何知道一个大型的容错量子计算机是否能够为某个工业领域带来颠覆式的改变？来自DARPA国防科技办公室的项目经理Joe Altepeter认为“目前工业界和政府的研究人员都太专注于制造大型的量子计算系统，而一个有意义的性能度量指标也是很重要的”。QB项目的主要目的之一就是重新定义一些关键的量子计算指标，使得这些指标可以被测试。&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="量子资讯" scheme="http://example.com/categories/%E9%87%8F%E5%AD%90%E8%B5%84%E8%AE%AF/"/>
-    
-    <category term="科技与工业快讯" scheme="http://example.com/categories/%E9%87%8F%E5%AD%90%E8%B5%84%E8%AE%AF/%E7%A7%91%E6%8A%80%E4%B8%8E%E5%B7%A5%E4%B8%9A%E5%BF%AB%E8%AE%AF/"/>
-    
-    
-    <category term="量子快讯" scheme="http://example.com/tags/%E9%87%8F%E5%AD%90%E5%BF%AB%E8%AE%AF/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>全球量子科技与工业快讯第十五期</title>
-    <link href="http://example.com/2021/04/05/news/news-15/"/>
-    <id>http://example.com/2021/04/05/news/news-15/</id>
-    <published>2021-04-05T05:00:00.000Z</published>
-    <updated>2021-04-22T01:18:30.548Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;来源：ORNL Quantum Computing Institute ｜ 转译编写：求是量子&lt;/p&gt;
-&lt;h2 id=&quot;IBM提供量子工业界首个开发者认证&quot;&gt;&lt;a href=&quot;#IBM提供量子工业界首个开发者认证&quot; class=&quot;headerlink&quot; title=&quot;IBM提供量子工业界首个开发者认证&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://www.ibm.com/blogs/research/2021/03/quantum-developer-certification/&quot;&gt;IBM提供量子工业界首个开发者认证&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;国际商业机器公司(IBM)于近日宣布提供全球首个量子计算机编程的开发者认证。该测试一共有60道题目，限时90分钟。答对44道题及以上即可通过测试。目前该测试仅支持英文，个人可以通过访问&lt;a href=&quot;https://www.ibm.com/certify/exam?id=C1000-112&quot;&gt;测试官方网站&lt;/a&gt;注册并参与测试。&lt;/p&gt;</summary>
     
     
     
