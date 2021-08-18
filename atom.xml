@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-08-04T15:03:01.628Z</updated>
+  <updated>2021-08-18T19:33:12.650Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>全球量子科技与工业快讯第三十二期</title>
+    <link href="http://example.com/2021/08/11/news/news-32/"/>
+    <id>http://example.com/2021/08/11/news/news-32/</id>
+    <published>2021-08-11T05:00:00.000Z</published>
+    <updated>2021-08-18T19:33:12.650Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;来源：ORNL Quantum Computing Institute ｜ 转译编写：求是量子&lt;/p&gt;
+&lt;h2 id=&quot;IBM期望通过牺牲连通性以完成量子计算的规模化&quot;&gt;&lt;a href=&quot;#IBM期望通过牺牲连通性以完成量子计算的规模化&quot; class=&quot;headerlink&quot; title=&quot;IBM期望通过牺牲连通性以完成量子计算的规模化&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://spectrum.ieee.org/ibm-s-quantum-computing-compromise-the-road-to-scale&quot;&gt;IBM期望通过牺牲连通性以完成量子计算的规模化&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;国际商业机器公司（International Business Machines Corporation， IBM）于近日宣布其下一代量子处理器 Big Blue 将全面采用六角晶格的布局。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="量子资讯" scheme="http://example.com/categories/%E9%87%8F%E5%AD%90%E8%B5%84%E8%AE%AF/"/>
+    
+    <category term="科技与工业快讯" scheme="http://example.com/categories/%E9%87%8F%E5%AD%90%E8%B5%84%E8%AE%AF/%E7%A7%91%E6%8A%80%E4%B8%8E%E5%B7%A5%E4%B8%9A%E5%BF%AB%E8%AE%AF/"/>
+    
+    
+    <category term="量子快讯" scheme="http://example.com/tags/%E9%87%8F%E5%AD%90%E5%BF%AB%E8%AE%AF/"/>
+    
+  </entry>
   
   <entry>
     <title>全球量子科技与工业快讯第三十一期</title>
@@ -427,28 +449,6 @@
     
     <summary type="html">&lt;p&gt;来源：ORNL Quantum Computing Institute ｜ 转译编写：求是量子&lt;/p&gt;
 &lt;h2 id=&quot;美国能源部投入2500万开发量子互联网&quot;&gt;&lt;a href=&quot;#美国能源部投入2500万开发量子互联网&quot; class=&quot;headerlink&quot; title=&quot;美国能源部投入2500万开发量子互联网&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://www.newswise.com/articles/department-of-energy-to-provide-25-million-toward-development-of-a-quantum-internet?seeOriginal=department-of-energy-to-provide-25-million-toward-development-of-a-quantum-internet&quot;&gt;美国能源部投入2500万开发量子互联网&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;美国能源部(U.S. Department of Energy)于当地时间2021年4月13号宣布将提供2500万美元用以支持量子互联网的基础开发研究。能源部旗下负责先进科学计算研究的科学副总监Barb Helland认为“近期与开发可实用的量子互联网的相关研究取得了令人瞩目的进展并表现出巨大的潜力”，而能源部的该项投资将“致力于为量子互联网的构建打下坚实的基础”。&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="量子资讯" scheme="http://example.com/categories/%E9%87%8F%E5%AD%90%E8%B5%84%E8%AE%AF/"/>
-    
-    <category term="科技与工业快讯" scheme="http://example.com/categories/%E9%87%8F%E5%AD%90%E8%B5%84%E8%AE%AF/%E7%A7%91%E6%8A%80%E4%B8%8E%E5%B7%A5%E4%B8%9A%E5%BF%AB%E8%AE%AF/"/>
-    
-    
-    <category term="量子快讯" scheme="http://example.com/tags/%E9%87%8F%E5%AD%90%E5%BF%AB%E8%AE%AF/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>全球量子科技与工业快讯第十六期</title>
-    <link href="http://example.com/2021/04/12/news/news-16/"/>
-    <id>http://example.com/2021/04/12/news/news-16/</id>
-    <published>2021-04-12T05:00:00.000Z</published>
-    <updated>2021-04-22T01:18:22.204Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;来源：ORNL Quantum Computing Institute ｜ 转译编写：求是量子&lt;/p&gt;
-&lt;h2 id=&quot;统一量子计算机的效用&quot;&gt;&lt;a href=&quot;#统一量子计算机的效用&quot; class=&quot;headerlink&quot; title=&quot;统一量子计算机的效用&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://www.darpa.mil/news-events/2021-04-02&quot;&gt;统一量子计算机的效用&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;美国国防高级研究计划局(Defense Advanced Research Projects Agency，DARPA)宣布了一项名为“量子基准测试”(Quantum Benchmarking，QB)的项目。该项目将专注于一个非常基本的问题：我们如何知道一个大型的容错量子计算机是否能够为某个工业领域带来颠覆式的改变？来自DARPA国防科技办公室的项目经理Joe Altepeter认为“目前工业界和政府的研究人员都太专注于制造大型的量子计算系统，而一个有意义的性能度量指标也是很重要的”。QB项目的主要目的之一就是重新定义一些关键的量子计算指标，使得这些指标可以被测试。&lt;/p&gt;</summary>
     
     
     
