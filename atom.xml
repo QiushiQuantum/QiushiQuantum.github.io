@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-08-18T19:34:56.728Z</updated>
+  <updated>2021-08-26T01:21:03.853Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>全球量子科技与工业快讯第三十三期</title>
+    <link href="http://example.com/2021/08/25/news/news-33/"/>
+    <id>http://example.com/2021/08/25/news/news-33/</id>
+    <published>2021-08-25T05:00:00.000Z</published>
+    <updated>2021-08-26T01:21:03.853Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;来源：ORNL Quantum Computing Institute ｜ 转译编写：求是量子&lt;/p&gt;
+&lt;h2 id=&quot;德国联邦机构展示量子安全的视频会议&quot;&gt;&lt;a href=&quot;#德国联邦机构展示量子安全的视频会议&quot; class=&quot;headerlink&quot; title=&quot;德国联邦机构展示量子安全的视频会议&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://optics.org/news/12/8/18&quot;&gt;德国联邦机构展示量子安全的视频会议&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;8月10日，两个德国联邦机构借助光链路首次以量子安全的方式完成视频通讯。这次视频会议为未来高度安全的通信打开了新篇章。此次通讯没有使用传统方法进行加密，而是借助了光量子进行密钥分配。这意味着，如果黑客试图获取将要生成的密钥（这些密钥随后将用于加密传输数据），光粒子就会受到干扰，从而被检测出来。该套量子设备除了可以演示安全视频会议，还可用于产生科学数据，为未来复杂量子安全网络中的通信提供重要的见解。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="量子资讯" scheme="http://example.com/categories/%E9%87%8F%E5%AD%90%E8%B5%84%E8%AE%AF/"/>
+    
+    <category term="科技与工业快讯" scheme="http://example.com/categories/%E9%87%8F%E5%AD%90%E8%B5%84%E8%AE%AF/%E7%A7%91%E6%8A%80%E4%B8%8E%E5%B7%A5%E4%B8%9A%E5%BF%AB%E8%AE%AF/"/>
+    
+    
+    <category term="量子快讯" scheme="http://example.com/tags/%E9%87%8F%E5%AD%90%E5%BF%AB%E8%AE%AF/"/>
+    
+  </entry>
   
   <entry>
     <title>全球量子科技与工业快讯第三十二期</title>
@@ -436,28 +458,6 @@
     
     
     <category term="产业观察" scheme="http://example.com/tags/%E4%BA%A7%E4%B8%9A%E8%A7%82%E5%AF%9F/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>全球量子科技与工业快讯第十七期</title>
-    <link href="http://example.com/2021/04/19/news/news-17/"/>
-    <id>http://example.com/2021/04/19/news/news-17/</id>
-    <published>2021-04-19T05:00:00.000Z</published>
-    <updated>2021-04-22T01:22:19.322Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;来源：ORNL Quantum Computing Institute ｜ 转译编写：求是量子&lt;/p&gt;
-&lt;h2 id=&quot;美国能源部投入2500万开发量子互联网&quot;&gt;&lt;a href=&quot;#美国能源部投入2500万开发量子互联网&quot; class=&quot;headerlink&quot; title=&quot;美国能源部投入2500万开发量子互联网&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://www.newswise.com/articles/department-of-energy-to-provide-25-million-toward-development-of-a-quantum-internet?seeOriginal=department-of-energy-to-provide-25-million-toward-development-of-a-quantum-internet&quot;&gt;美国能源部投入2500万开发量子互联网&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;美国能源部(U.S. Department of Energy)于当地时间2021年4月13号宣布将提供2500万美元用以支持量子互联网的基础开发研究。能源部旗下负责先进科学计算研究的科学副总监Barb Helland认为“近期与开发可实用的量子互联网的相关研究取得了令人瞩目的进展并表现出巨大的潜力”，而能源部的该项投资将“致力于为量子互联网的构建打下坚实的基础”。&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="量子资讯" scheme="http://example.com/categories/%E9%87%8F%E5%AD%90%E8%B5%84%E8%AE%AF/"/>
-    
-    <category term="科技与工业快讯" scheme="http://example.com/categories/%E9%87%8F%E5%AD%90%E8%B5%84%E8%AE%AF/%E7%A7%91%E6%8A%80%E4%B8%8E%E5%B7%A5%E4%B8%9A%E5%BF%AB%E8%AE%AF/"/>
-    
-    
-    <category term="量子快讯" scheme="http://example.com/tags/%E9%87%8F%E5%AD%90%E5%BF%AB%E8%AE%AF/"/>
     
   </entry>
   
