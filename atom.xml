@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-08-26T01:21:03.853Z</updated>
+  <updated>2021-09-03T00:16:08.354Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>全球量子科技与工业快讯第三十四期</title>
+    <link href="http://example.com/2021/09/02/news/news-34/"/>
+    <id>http://example.com/2021/09/02/news/news-34/</id>
+    <published>2021-09-02T05:00:00.000Z</published>
+    <updated>2021-09-03T00:16:08.354Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;来源：ORNL Quantum Computing Institute ｜ 转译编写：求是量子&lt;/p&gt;
+&lt;h2 id=&quot;玻璃芯片或将带来新的量子计算机构架&quot;&gt;&lt;a href=&quot;#玻璃芯片或将带来新的量子计算机构架&quot; class=&quot;headerlink&quot; title=&quot;玻璃芯片或将带来新的量子计算机构架&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://spectrum.ieee.org/ionq-new-quantum-computing-chip&quot;&gt;玻璃芯片或将带来新的量子计算机构架&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;为了扩大量子计算机的规模，IonQ公司推出了一种新型的玻璃芯片。长久以来，IonQ致力于开发基于离子阱（trapped ion）的量子计算机并一直使用传统的硅加工技术。而最近，该公司更新了制造阱（traps）的技术，转而采用了一种基于石英玻璃（译者注：石英玻璃是一种二氧化硅纯度极高的非晶体材料，与含硅酸钠和硅酸钙的传统玻璃有所不同）的制造工艺。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="量子资讯" scheme="http://example.com/categories/%E9%87%8F%E5%AD%90%E8%B5%84%E8%AE%AF/"/>
+    
+    <category term="科技与工业快讯" scheme="http://example.com/categories/%E9%87%8F%E5%AD%90%E8%B5%84%E8%AE%AF/%E7%A7%91%E6%8A%80%E4%B8%8E%E5%B7%A5%E4%B8%9A%E5%BF%AB%E8%AE%AF/"/>
+    
+    
+    <category term="量子快讯" scheme="http://example.com/tags/%E9%87%8F%E5%AD%90%E5%BF%AB%E8%AE%AF/"/>
+    
+  </entry>
   
   <entry>
     <title>全球量子科技与工业快讯第三十三期</title>
@@ -434,30 +456,6 @@
     
     
     <category term="量子快讯" scheme="http://example.com/tags/%E9%87%8F%E5%AD%90%E5%BF%AB%E8%AE%AF/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>中国量子信息产业发展迅速，初创企业成为新兴力量</title>
-    <link href="http://example.com/2021/04/21/company/startup-domestic/"/>
-    <id>http://example.com/2021/04/21/company/startup-domestic/</id>
-    <published>2021-04-21T05:00:00.000Z</published>
-    <updated>2021-04-21T15:17:06.045Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;来源：求是量子系列之“量子产业观察”&lt;/p&gt;
-&lt;p&gt;我国在近年来高度重视和支持量子信息领域的发展，尤其是最近的两会提出：“十四五”期间，我国量子信息领域的科技攻关任务围绕量子通信技术研发、量子测量技术突破和量子计算的产品研制。&lt;/p&gt;
-&lt;p&gt;针对以上三项攻关任务，自然少不了学术界和产业界的共同努力。虽然我国一些量子初创公司成立不久，但已是蓬勃发展，成为了产业中的新兴力量。本期，我们就带领大家走进目前量子初创公司中的翘楚。&lt;/p&gt;
-&lt;p&gt;此前，我们已经详细介绍过我国互联网大厂BAT（百度，阿里巴巴和腾讯）以及华为和本源的量子产业布局及现状。详细请参考往期文章。&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="量子咨询" scheme="http://example.com/categories/%E9%87%8F%E5%AD%90%E5%92%A8%E8%AF%A2/"/>
-    
-    <category term="中国产业观察" scheme="http://example.com/categories/%E9%87%8F%E5%AD%90%E5%92%A8%E8%AF%A2/%E4%B8%AD%E5%9B%BD%E4%BA%A7%E4%B8%9A%E8%A7%82%E5%AF%9F/"/>
-    
-    
-    <category term="产业观察" scheme="http://example.com/tags/%E4%BA%A7%E4%B8%9A%E8%A7%82%E5%AF%9F/"/>
     
   </entry>
   
