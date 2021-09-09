@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-09-03T00:16:08.354Z</updated>
+  <updated>2021-09-09T03:30:55.054Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>全球量子科技与工业快讯第三十五期</title>
+    <link href="http://example.com/2021/09/08/news/news-35/"/>
+    <id>http://example.com/2021/09/08/news/news-35/</id>
+    <published>2021-09-08T05:00:00.000Z</published>
+    <updated>2021-09-09T03:30:55.054Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;来源：ORNL Quantum Computing Institute ｜ 转译编写：求是量子&lt;/p&gt;
+&lt;h2 id=&quot;美国顶尖高校与实验室牵头搭建量子网络实验平台&quot;&gt;&lt;a href=&quot;#美国顶尖高校与实验室牵头搭建量子网络实验平台&quot; class=&quot;headerlink&quot; title=&quot;美国顶尖高校与实验室牵头搭建量子网络实验平台&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://newscenter.lbl.gov/2021/08/31/quantum-network-testbed/&quot;&gt;美国顶尖高校与实验室牵头搭建量子网络实验平台&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;劳伦斯伯克利国家实验室（Lawrence Berkeley National Laboratory，简称伯克利实验室）和加州大学伯克利分校（UC Berkeley，简称 UCB）宣布将合作搭建前沿量子网络试验平台。该项目由美国能源部（U.S. Department of Energy）于近期发起的一项为期五年的赞助计划支持，详情请参考&lt;a href=&quot;/2021/08/25/news/news-33/&quot;&gt;《全球量子科技与工业快讯第三十三期》&lt;/a&gt;。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="量子资讯" scheme="http://example.com/categories/%E9%87%8F%E5%AD%90%E8%B5%84%E8%AE%AF/"/>
+    
+    <category term="科技与工业快讯" scheme="http://example.com/categories/%E9%87%8F%E5%AD%90%E8%B5%84%E8%AE%AF/%E7%A7%91%E6%8A%80%E4%B8%8E%E5%B7%A5%E4%B8%9A%E5%BF%AB%E8%AE%AF/"/>
+    
+    
+    <category term="量子快讯" scheme="http://example.com/tags/%E9%87%8F%E5%AD%90%E5%BF%AB%E8%AE%AF/"/>
+    
+  </entry>
   
   <entry>
     <title>全球量子科技与工业快讯第三十四期</title>
@@ -424,29 +446,6 @@
     
     <summary type="html">&lt;p&gt;来源：ORNL Quantum Computing Institute ｜ 转译编写：求是量子&lt;/p&gt;
 &lt;h2 id=&quot;高盛与QC-Ware合作为风险资产定价提出新量子算法&quot;&gt;&lt;a href=&quot;#高盛与QC-Ware合作为风险资产定价提出新量子算法&quot; class=&quot;headerlink&quot; title=&quot;高盛与QC Ware合作为风险资产定价提出新量子算法&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://www.prnewswire.com/news-releases/goldman-sachs-and-qc-ware-collaboration-brings-new-way-to-price-risky-assets-within-reach-of-quantum-computers-301278773.html&quot;&gt;高盛与QC Ware合作为风险资产定价提出新量子算法&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;近日，全球最大投资银行之一的高盛（Goldman Sachs）与初创公司QC Ware合作，在量子计算在金融领域的应用方面迈出了重要的一步。据悉，两家公司的研究人员设计一个鲁棒的量子算法，可以超越目前最好的基于蒙特卡罗仿真（Monte Carlo simulations）的算法，并有望在近阶段的量子硬件上应用。&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="量子资讯" scheme="http://example.com/categories/%E9%87%8F%E5%AD%90%E8%B5%84%E8%AE%AF/"/>
-    
-    <category term="科技与工业快讯" scheme="http://example.com/categories/%E9%87%8F%E5%AD%90%E8%B5%84%E8%AE%AF/%E7%A7%91%E6%8A%80%E4%B8%8E%E5%B7%A5%E4%B8%9A%E5%BF%AB%E8%AE%AF/"/>
-    
-    
-    <category term="量子快讯" scheme="http://example.com/tags/%E9%87%8F%E5%AD%90%E5%BF%AB%E8%AE%AF/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>全球量子科技与工业快讯第十八期</title>
-    <link href="http://example.com/2021/04/25/news/news-18/"/>
-    <id>http://example.com/2021/04/25/news/news-18/</id>
-    <published>2021-04-25T05:00:00.000Z</published>
-    <updated>2021-04-25T21:49:31.475Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;来源：ORNL Quantum Computing Institute ｜ 转译编写：求是量子&lt;/p&gt;
-&lt;h2 id=&quot;澳大利亚拓展全球合作以发展量子计算等关键技术&quot;&gt;&lt;a href=&quot;#澳大利亚拓展全球合作以发展量子计算等关键技术&quot; class=&quot;headerlink&quot; title=&quot;澳大利亚拓展全球合作以发展量子计算等关键技术&quot;&gt;&lt;/a&gt;澳大利亚拓展全球合作以发展量子计算等关键技术&lt;/h2&gt;&lt;p&gt;随着现代科技的日益复杂，国家之间开始大量寻求跨国合作，以实现共赢局面，也使得自己在关键技术方面不会落后于国际水平。在&lt;a href=&quot;/2021/04/19/news/news-17&quot;&gt;《全球量子科技与工业快讯第十七期》&lt;/a&gt;中，我们报道拜登政府将与日本合作，共同发展量子信息在内的多项尖端技术。&lt;/p&gt;
-&lt;p&gt;近日，澳大利亚与印度宣布达成一项合作，将共同研发包括人工智能（artificial intelligence），5G网络，物联网（internet of things）以及量子计算（quantum computing）在内的新兴科技。据悉，两国希望通过该项目塑造一个合适的科技环境，从而扩大双方在印度洋-太平洋区域的国际影响力（&lt;a href=&quot;https://www.computerweekly.com/news/252499671/Australia-and-India-team-up-on-critical-technology&quot;&gt;相关链接&lt;/a&gt;）。&lt;/p&gt;</summary>
     
     
     
