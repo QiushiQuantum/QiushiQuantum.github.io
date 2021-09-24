@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-09-16T01:51:07.119Z</updated>
+  <updated>2021-09-24T01:40:45.392Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>全球量子科技与工业快讯第三十七期</title>
+    <link href="http://example.com/2021/09/23/news/news-37/"/>
+    <id>http://example.com/2021/09/23/news/news-37/</id>
+    <published>2021-09-23T05:00:00.000Z</published>
+    <updated>2021-09-24T01:40:45.392Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;来源：ORNL Quantum Computing Institute ｜ 转译编写：求是量子&lt;/p&gt;
+&lt;h2 id=&quot;新资金将推动英国在量子制造领域的发展&quot;&gt;&lt;a href=&quot;#新资金将推动英国在量子制造领域的发展&quot; class=&quot;headerlink&quot; title=&quot;新资金将推动英国在量子制造领域的发展&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://www.businessleader.co.uk/new-funding-boosts-the-uks-future-in-quantum-manufacturing/&quot;&gt;新资金将推动英国在量子制造领域的发展&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Ionoptika 有限公司和萨里大学（University of Surrey，又译索立大学）从英国创新机构 Innovate UK 获得了总价值为42.5万英镑的项目拨款，以扩大他们对量子设备新制造技术的研究。该项目全名为 Rapid and Scalable Single Colour-Centre Implantation for Single Photon Sources，专注于新型单光子光源的研发，且由一个独立评审团推荐资助。评审团认为“这是两个专家合作伙伴的创新项目”，一旦成功，它将带来一种可能彻底改变量子计算的独特产品。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="量子资讯" scheme="http://example.com/categories/%E9%87%8F%E5%AD%90%E8%B5%84%E8%AE%AF/"/>
+    
+    <category term="科技与工业快讯" scheme="http://example.com/categories/%E9%87%8F%E5%AD%90%E8%B5%84%E8%AE%AF/%E7%A7%91%E6%8A%80%E4%B8%8E%E5%B7%A5%E4%B8%9A%E5%BF%AB%E8%AE%AF/"/>
+    
+    
+    <category term="量子快讯" scheme="http://example.com/tags/%E9%87%8F%E5%AD%90%E5%BF%AB%E8%AE%AF/"/>
+    
+  </entry>
   
   <entry>
     <title>全球量子科技与工业快讯第三十六期</title>
@@ -424,28 +446,6 @@
     
     <summary type="html">&lt;p&gt;来源：ORNL Quantum Computing Institute ｜ 转译编写：求是量子&lt;/p&gt;
 &lt;h2 id=&quot;德国将投资20亿欧元建造其首个量子计算机&quot;&gt;&lt;a href=&quot;#德国将投资20亿欧元建造其首个量子计算机&quot; class=&quot;headerlink&quot; title=&quot;德国将投资20亿欧元建造其首个量子计算机&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://eandt.theiet.org/content/articles/2021/05/germany-to-invest-2bn-in-building-first-quantum-computer/&quot;&gt;德国将投资20亿欧元建造其首个量子计算机&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;据路透社（Reuters）报道，德国政府于上周宣布将投资约20亿欧元来支持量子计算的开发。该计划由德国科技部（science ministry）与经济部（economy ministry）共同发起，其中科技部将投资约11亿欧元，用于量子计算机的研发。而经济部也将贡献8.78亿欧元用于量子计算应用的探索。&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="量子资讯" scheme="http://example.com/categories/%E9%87%8F%E5%AD%90%E8%B5%84%E8%AE%AF/"/>
-    
-    <category term="科技与工业快讯" scheme="http://example.com/categories/%E9%87%8F%E5%AD%90%E8%B5%84%E8%AE%AF/%E7%A7%91%E6%8A%80%E4%B8%8E%E5%B7%A5%E4%B8%9A%E5%BF%AB%E8%AE%AF/"/>
-    
-    
-    <category term="量子快讯" scheme="http://example.com/tags/%E9%87%8F%E5%AD%90%E5%BF%AB%E8%AE%AF/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>全球量子科技与工业快讯第二十期</title>
-    <link href="http://example.com/2021/05/09/news/news-20/"/>
-    <id>http://example.com/2021/05/09/news/news-20/</id>
-    <published>2021-05-09T05:00:00.000Z</published>
-    <updated>2021-05-09T18:51:21.641Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;来源：ORNL Quantum Computing Institute ｜ 转译编写：求是量子&lt;/p&gt;
-&lt;h2 id=&quot;量子初创公司仙纳度斩获贝瑟默风投1亿美元的注资&quot;&gt;&lt;a href=&quot;#量子初创公司仙纳度斩获贝瑟默风投1亿美元的注资&quot; class=&quot;headerlink&quot; title=&quot;量子初创公司仙纳度斩获贝瑟默风投1亿美元的注资&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://www.theglobeandmail.com/business/article-us-venture-giant-bessemer-set-to-lead-us100-million-funding-of-toronto/&quot;&gt;量子初创公司仙纳度斩获贝瑟默风投1亿美元的注资&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;仙纳度（Xanadu Quantum Technologies）是一家来自加拿大的量子初创公司，专注于光量子计算机的研发。此前，我们曾经报道过仙纳度与美国国家标准与技术局（National Institute of Standards and Technology）在大规模可编程光子学线路上取得了一定突破（详见&lt;a href=&quot;/2021/03/08/news/news-11/&quot;&gt;《全球量子科技与工业快讯第十一期》&lt;/a&gt;）。&lt;/p&gt;</summary>
     
     
     
