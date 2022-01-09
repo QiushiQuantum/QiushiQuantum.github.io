@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-09-24T01:40:45.392Z</updated>
+  <updated>2022-01-09T03:20:22.626Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,9 +17,295 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>全球量子科技与工业快讯第四十九期</title>
+    <link href="http://example.com/2022/01/08/news/news-49/"/>
+    <id>http://example.com/2022/01/08/news/news-49/</id>
+    <published>2022-01-08T08:00:00.000Z</published>
+    <updated>2022-01-09T03:20:22.626Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;来源：ORNL Quantum Computing Institute ｜ 转译编写：求是量子&lt;/p&gt;
+&lt;h2 id=&quot;量子计算机正在为宝马和LG等领军企业解决复杂的实际问题&quot;&gt;&lt;a href=&quot;#量子计算机正在为宝马和LG等领军企业解决复杂的实际问题&quot; class=&quot;headerlink&quot; title=&quot;量子计算机正在为宝马和LG等领军企业解决复杂的实际问题&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://www.cnet.com/tech/computing/quantum-computers-will-help-solve-bigger-problems-in-2022/&quot;&gt;量子计算机正在为宝马和LG等领军企业解决复杂的实际问题&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;在经过过去数年的研究与开发，部分企业开始相信目前的量子计算机已经可以帮助他们解决现实的商业问题了。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="量子资讯" scheme="http://example.com/categories/%E9%87%8F%E5%AD%90%E8%B5%84%E8%AE%AF/"/>
+    
+    <category term="科技与工业快讯" scheme="http://example.com/categories/%E9%87%8F%E5%AD%90%E8%B5%84%E8%AE%AF/%E7%A7%91%E6%8A%80%E4%B8%8E%E5%B7%A5%E4%B8%9A%E5%BF%AB%E8%AE%AF/"/>
+    
+    
+    <category term="量子快讯" scheme="http://example.com/tags/%E9%87%8F%E5%AD%90%E5%BF%AB%E8%AE%AF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>构筑全栈、开放的云量子计算生态系统，微软为解决社会最复杂问题提供助力</title>
+    <link href="http://example.com/2022/01/02/company/microsoft/"/>
+    <id>http://example.com/2022/01/02/company/microsoft/</id>
+    <published>2022-01-02T08:00:00.000Z</published>
+    <updated>2022-01-02T20:10:29.922Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;来源：求是量子系列之“量子产业观察”&lt;/p&gt;
+&lt;p&gt;在最近几期文章中，我们已经着重介绍了一些在量子赛道上迈出踏实步伐的国外公司，比如 &lt;a href=&quot;/2021/05/25/company/IBM/&quot;&gt;IBM&lt;/a&gt;和&lt;a href=&quot;/2021/07/17/company/google/&quot;&gt;谷歌&lt;/a&gt;。今天，我们就来看看另一家在互联网时代，凭借操作系统等软件叱咤风云的国际公司，微软（Microsoft），以及其在量子计算等领域做出的一些卓越贡献。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="量子咨询" scheme="http://example.com/categories/%E9%87%8F%E5%AD%90%E5%92%A8%E8%AF%A2/"/>
+    
+    <category term="全球产业观察" scheme="http://example.com/categories/%E9%87%8F%E5%AD%90%E5%92%A8%E8%AF%A2/%E5%85%A8%E7%90%83%E4%BA%A7%E4%B8%9A%E8%A7%82%E5%AF%9F/"/>
+    
+    
+    <category term="产业观察" scheme="http://example.com/tags/%E4%BA%A7%E4%B8%9A%E8%A7%82%E5%AF%9F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>全球量子科技与工业快讯第四十八期</title>
+    <link href="http://example.com/2022/01/01/news/news-48/"/>
+    <id>http://example.com/2022/01/01/news/news-48/</id>
+    <published>2022-01-01T08:00:00.000Z</published>
+    <updated>2022-01-09T02:22:50.000Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;来源：ORNL Quantum Computing Institute ｜ 转译编写：求是量子&lt;/p&gt;
+&lt;h2 id=&quot;研究人员实现量子计算实时纠错&quot;&gt;&lt;a href=&quot;#研究人员实现量子计算实时纠错&quot; class=&quot;headerlink&quot; title=&quot;研究人员实现量子计算实时纠错&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://physics.aps.org/articles/v14/184&quot;&gt;研究人员实现量子计算实时纠错&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;来自位于科罗拉多州布鲁姆菲尔德（Broomfield, Colorado）的量子公司 Quantinuum （前身为霍尼韦尔 Honeywell 旗下的量子小组）的一组研究人员实现了一种新的量子纠错的方法。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="量子资讯" scheme="http://example.com/categories/%E9%87%8F%E5%AD%90%E8%B5%84%E8%AE%AF/"/>
+    
+    <category term="科技与工业快讯" scheme="http://example.com/categories/%E9%87%8F%E5%AD%90%E8%B5%84%E8%AE%AF/%E7%A7%91%E6%8A%80%E4%B8%8E%E5%B7%A5%E4%B8%9A%E5%BF%AB%E8%AE%AF/"/>
+    
+    
+    <category term="量子快讯" scheme="http://example.com/tags/%E9%87%8F%E5%AD%90%E5%BF%AB%E8%AE%AF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>全球量子科技与工业快讯第四十七期</title>
+    <link href="http://example.com/2021/12/23/news/news-47/"/>
+    <id>http://example.com/2021/12/23/news/news-47/</id>
+    <published>2021-12-23T08:00:00.000Z</published>
+    <updated>2021-12-24T19:13:55.599Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;来源：ORNL Quantum Computing Institute ｜ 转译编写：求是量子&lt;/p&gt;
+&lt;h2 id=&quot;HPCQS-新项目引领欧洲联邦量子超级计算的发展&quot;&gt;&lt;a href=&quot;#HPCQS-新项目引领欧洲联邦量子超级计算的发展&quot; class=&quot;headerlink&quot; title=&quot;HPCQS 新项目引领欧洲联邦量子超级计算的发展&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://www.hpcwire.com/off-the-wire/new-project-hpcqs-pioneers-federated-quantum-supercomputing-in-europe/&quot;&gt;HPCQS 新项目引领欧洲联邦量子超级计算的发展&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;随着新项目“高性能计算机和量子模拟器混合”（High-Performance Computer and Quantum Simulator hybrid，HPCQS）的开展，欧洲进入了混合量子高性能计算的新时代。HPCQS将致力于整合两个量子模拟器，这两个模拟器可以利用位于欧洲高性能计算（HPC）中心的计算资源，进行超过100个量子比特的仿真。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="量子资讯" scheme="http://example.com/categories/%E9%87%8F%E5%AD%90%E8%B5%84%E8%AE%AF/"/>
+    
+    <category term="科技与工业快讯" scheme="http://example.com/categories/%E9%87%8F%E5%AD%90%E8%B5%84%E8%AE%AF/%E7%A7%91%E6%8A%80%E4%B8%8E%E5%B7%A5%E4%B8%9A%E5%BF%AB%E8%AE%AF/"/>
+    
+    
+    <category term="量子快讯" scheme="http://example.com/tags/%E9%87%8F%E5%AD%90%E5%BF%AB%E8%AE%AF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>全球量子科技与工业快讯第四十六期</title>
+    <link href="http://example.com/2021/12/10/news/news-46/"/>
+    <id>http://example.com/2021/12/10/news/news-46/</id>
+    <published>2021-12-10T08:00:00.000Z</published>
+    <updated>2021-12-24T18:03:32.955Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;来源：ORNL Quantum Computing Institute ｜ 转译编写：求是量子&lt;/p&gt;
+&lt;h2 id=&quot;研究人员用用数学的方式达到“谷歌声明的量子霸权”&quot;&gt;&lt;a href=&quot;#研究人员用用数学的方式达到“谷歌声明的量子霸权”&quot; class=&quot;headerlink&quot; title=&quot;研究人员用用数学的方式达到“谷歌声明的量子霸权”&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://arstechnica.com/science/2021/11/math-may-have-caught-up-with-googles-quantum-supremacy-claims/&quot;&gt;研究人员用用数学的方式达到“谷歌声明的量子霸权”&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;最近，在arXiv上的一篇手稿(arXiv:2111.03011)中，研究人员描述了一种特定的方法，该方法允许基于gpu的集群可以在15小时内产生谷歌Sycamore芯片完成玻色采样等效的输出。而在一台领先的超级计算机上运行新方法，他们估计它的性能会超过Sycamore量子处理器。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="量子资讯" scheme="http://example.com/categories/%E9%87%8F%E5%AD%90%E8%B5%84%E8%AE%AF/"/>
+    
+    <category term="科技与工业快讯" scheme="http://example.com/categories/%E9%87%8F%E5%AD%90%E8%B5%84%E8%AE%AF/%E7%A7%91%E6%8A%80%E4%B8%8E%E5%B7%A5%E4%B8%9A%E5%BF%AB%E8%AE%AF/"/>
+    
+    
+    <category term="量子快讯" scheme="http://example.com/tags/%E9%87%8F%E5%AD%90%E5%BF%AB%E8%AE%AF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>全球量子科技与工业快讯第四十五期</title>
+    <link href="http://example.com/2021/12/03/news/news-45/"/>
+    <id>http://example.com/2021/12/03/news/news-45/</id>
+    <published>2021-12-03T08:00:00.000Z</published>
+    <updated>2021-12-24T17:56:28.828Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;来源：ORNL Quantum Computing Institute ｜ 转译编写：求是量子&lt;/p&gt;
+&lt;h2 id=&quot;IBM发布第一个拥有100个量子比特的量子计算机&quot;&gt;&lt;a href=&quot;#IBM发布第一个拥有100个量子比特的量子计算机&quot; class=&quot;headerlink&quot; title=&quot;IBM发布第一个拥有100个量子比特的量子计算机&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://www.nature.com/articles/d41586-021-03476-5&quot;&gt;IBM发布第一个拥有100个量子比特的量子计算机&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;IBM最新的量子计算芯片，在11月15日发布，这建立了一个里程碑，其封装了127个量子比特(qubit)，这使得它成为第一个比特达到3位数的此类设备。但这一成就只是整个行业数十亿美元投资推动的激进过程中的一步。IBM的“Eagle”芯片朝着明年开发433量子比特处理器的目标迈出了一步，并且预计能够在2023年开发出1121量子比特的“ Condor”处理器，这些目标呼应了电子行业几十年来为微型化硅芯片设定的目标。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="量子资讯" scheme="http://example.com/categories/%E9%87%8F%E5%AD%90%E8%B5%84%E8%AE%AF/"/>
+    
+    <category term="科技与工业快讯" scheme="http://example.com/categories/%E9%87%8F%E5%AD%90%E8%B5%84%E8%AE%AF/%E7%A7%91%E6%8A%80%E4%B8%8E%E5%B7%A5%E4%B8%9A%E5%BF%AB%E8%AE%AF/"/>
+    
+    
+    <category term="量子快讯" scheme="http://example.com/tags/%E9%87%8F%E5%AD%90%E5%BF%AB%E8%AE%AF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>全球量子科技与工业快讯第四十四期</title>
+    <link href="http://example.com/2021/11/19/news/news-44/"/>
+    <id>http://example.com/2021/11/19/news/news-44/</id>
+    <published>2021-11-19T08:00:00.000Z</published>
+    <updated>2021-12-24T18:02:27.979Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;来源：ORNL Quantum Computing Institute ｜ 转译编写：求是量子&lt;/p&gt;
+&lt;h2 id=&quot;IQM在芬兰建设价值2000万欧元的量子处理器工厂&quot;&gt;&lt;a href=&quot;#IQM在芬兰建设价值2000万欧元的量子处理器工厂&quot; class=&quot;headerlink&quot; title=&quot;IQM在芬兰建设价值2000万欧元的量子处理器工厂&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://www.eenewseurope.com/news/iqm-opens-eu20m-quantum-processor-plant-finland&quot;&gt;IQM在芬兰建设价值2000万欧元的量子处理器工厂&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;芬兰初创企业IQM Quantum Computers (IQM)开设了一家专门的制造工厂，用于设计、研究和制造量子处理器。这座耗资2000万欧元制造的低温表征工厂，距离该公司位于芬兰埃斯波的总部和量子实验室很近，是该公司迄今最大的一笔投资。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="量子资讯" scheme="http://example.com/categories/%E9%87%8F%E5%AD%90%E8%B5%84%E8%AE%AF/"/>
+    
+    <category term="科技与工业快讯" scheme="http://example.com/categories/%E9%87%8F%E5%AD%90%E8%B5%84%E8%AE%AF/%E7%A7%91%E6%8A%80%E4%B8%8E%E5%B7%A5%E4%B8%9A%E5%BF%AB%E8%AE%AF/"/>
+    
+    
+    <category term="量子快讯" scheme="http://example.com/tags/%E9%87%8F%E5%AD%90%E5%BF%AB%E8%AE%AF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>全球量子科技与工业快讯第四十三期</title>
+    <link href="http://example.com/2021/11/12/news/news-43/"/>
+    <id>http://example.com/2021/11/12/news/news-43/</id>
+    <published>2021-11-12T08:00:00.000Z</published>
+    <updated>2021-11-27T04:35:34.317Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;来源：ORNL Quantum Computing Institute ｜ 转译编写：求是量子&lt;/p&gt;
+&lt;h2 id=&quot;Qrypt通过云为企业提供量子安全解决方案&quot;&gt;&lt;a href=&quot;#Qrypt通过云为企业提供量子安全解决方案&quot; class=&quot;headerlink&quot; title=&quot;Qrypt通过云为企业提供量子安全解决方案&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://www.hpcwire.com/off-the-wire/qrypt-offers-quantum-security-solutions-for-enterprises-through-the-cloud/&quot;&gt;Qrypt通过云为企业提供量子安全解决方案&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Qrypt是一家基于量子熵的加密安全解决方案的生产商，近日宣布推出两个新的解决方案:云企业门户和数字量子密钥分发(Digital QKD)。这扩展了Qrypt的熵即服务(EaaS)组合，并且提供高质量的量子随机数和工具，以确保永久安全。目前企业可以将量子加密集成到他们的软件服务中，同时这些加密工具具有快速、易于使用、高度可伸缩，不需要昂贵的基础设施等特点。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="量子资讯" scheme="http://example.com/categories/%E9%87%8F%E5%AD%90%E8%B5%84%E8%AE%AF/"/>
+    
+    <category term="科技与工业快讯" scheme="http://example.com/categories/%E9%87%8F%E5%AD%90%E8%B5%84%E8%AE%AF/%E7%A7%91%E6%8A%80%E4%B8%8E%E5%B7%A5%E4%B8%9A%E5%BF%AB%E8%AE%AF/"/>
+    
+    
+    <category term="量子快讯" scheme="http://example.com/tags/%E9%87%8F%E5%AD%90%E5%BF%AB%E8%AE%AF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>全球量子科技与工业快讯第四十二期</title>
+    <link href="http://example.com/2021/11/05/news/news-42/"/>
+    <id>http://example.com/2021/11/05/news/news-42/</id>
+    <published>2021-11-05T07:00:00.000Z</published>
+    <updated>2021-11-27T04:24:26.480Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;来源：ORNL Quantum Computing Institute ｜ 转译编写：求是量子&lt;/p&gt;
+&lt;h2 id=&quot;高通风投投资量子机器公司&quot;&gt;&lt;a href=&quot;#高通风投投资量子机器公司&quot; class=&quot;headerlink&quot; title=&quot;高通风投投资量子机器公司&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://www.hpcwire.com/off-the-wire/qualcomm-ventures-invests-in-quantum-machines/&quot;&gt;高通风投投资量子机器公司&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;首个通用量子计算云基础设施的创建者量子机器公司(Quantum Machines)近日宣布获得高通风险投资公司(Qualcomm Ventures LLC)的投资。这是高通风投公司在量子计算领域的首次投资，也是量子机器公司今年早些时候宣布的B轮融资的延伸。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="量子资讯" scheme="http://example.com/categories/%E9%87%8F%E5%AD%90%E8%B5%84%E8%AE%AF/"/>
+    
+    <category term="科技与工业快讯" scheme="http://example.com/categories/%E9%87%8F%E5%AD%90%E8%B5%84%E8%AE%AF/%E7%A7%91%E6%8A%80%E4%B8%8E%E5%B7%A5%E4%B8%9A%E5%BF%AB%E8%AE%AF/"/>
+    
+    
+    <category term="量子快讯" scheme="http://example.com/tags/%E9%87%8F%E5%AD%90%E5%BF%AB%E8%AE%AF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>全球量子科技与工业快讯第四十一期</title>
+    <link href="http://example.com/2021/10/29/news/news-41/"/>
+    <id>http://example.com/2021/10/29/news/news-41/</id>
+    <published>2021-10-29T07:00:00.000Z</published>
+    <updated>2021-10-30T03:03:12.470Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;来源：ORNL Quantum Computing Institute ｜ 转译编写：求是量子&lt;/p&gt;
+&lt;h2 id=&quot;科学家开发可以延长卫星寿命的方法以实现安全量子通信&quot;&gt;&lt;a href=&quot;#科学家开发可以延长卫星寿命的方法以实现安全量子通信&quot; class=&quot;headerlink&quot; title=&quot;科学家开发可以延长卫星寿命的方法以实现安全量子通信&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://www.prnewswire.com/news-releases/scientists-develop-a-way-to-lengthen-a-satellites-lifespan-10-times-for-absolutely-secure-quantum-communications-nust-misis-reports-301404676.html&quot;&gt;科学家开发可以延长卫星寿命的方法以实现安全量子通信&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;在莫斯科国立科技大学的参与下，一个国际科学家小组开发了一个将地球轨道量子通信信道的单光子探测器的使用寿命延长十倍的技术。现实中在一定条件下的加热手段可以修复探测器硅基上的缺陷，这些缺陷是由于卫星受到空间辐射而造成的。因此通过降低使量子通信系统失效的“噪音”水平，可以延长卫星的使用寿命。该研究成果于近日发表在 &lt;em&gt;EPJ Quantum Technology&lt;/em&gt; 上。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="量子资讯" scheme="http://example.com/categories/%E9%87%8F%E5%AD%90%E8%B5%84%E8%AE%AF/"/>
+    
+    <category term="科技与工业快讯" scheme="http://example.com/categories/%E9%87%8F%E5%AD%90%E8%B5%84%E8%AE%AF/%E7%A7%91%E6%8A%80%E4%B8%8E%E5%B7%A5%E4%B8%9A%E5%BF%AB%E8%AE%AF/"/>
+    
+    
+    <category term="量子快讯" scheme="http://example.com/tags/%E9%87%8F%E5%AD%90%E5%BF%AB%E8%AE%AF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>全球量子科技与工业快讯第四十期</title>
+    <link href="http://example.com/2021/10/13/news/news-40/"/>
+    <id>http://example.com/2021/10/13/news/news-40/</id>
+    <published>2021-10-14T05:00:00.000Z</published>
+    <updated>2021-10-15T01:27:04.114Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;来源：ORNL Quantum Computing Institute ｜ 转译编写：求是量子&lt;/p&gt;
+&lt;h2 id=&quot;英国电信和东芝将在伦敦建立量子安全网络&quot;&gt;&lt;a href=&quot;#英国电信和东芝将在伦敦建立量子安全网络&quot; class=&quot;headerlink&quot; title=&quot;英国电信和东芝将在伦敦建立量子安全网络&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://www.techradar.com/news/bt-and-toshiba-to-build-quantum-secured-network-in-london&quot;&gt;英国电信和东芝将在伦敦建立量子安全网络&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;英国电信集团（BT Group plc）和东芝（Toshiba）将在伦敦进行世界上第一次量子安全网络基础设施的商业试验，该通信网络将沿着 M4 走廊，并连接位于码头区和伦敦金融城通信站点。这两家公司已经在量子密钥分配（Quantum Key Distribution，QKD）技术的多项测试方面进行了合作，该技术将保证传统安全系统在量子计算机威胁下的安全性。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="量子资讯" scheme="http://example.com/categories/%E9%87%8F%E5%AD%90%E8%B5%84%E8%AE%AF/"/>
+    
+    <category term="科技与工业快讯" scheme="http://example.com/categories/%E9%87%8F%E5%AD%90%E8%B5%84%E8%AE%AF/%E7%A7%91%E6%8A%80%E4%B8%8E%E5%B7%A5%E4%B8%9A%E5%BF%AB%E8%AE%AF/"/>
+    
+    
+    <category term="量子快讯" scheme="http://example.com/tags/%E9%87%8F%E5%AD%90%E5%BF%AB%E8%AE%AF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>全球量子科技与工业快讯第三十九期</title>
+    <link href="http://example.com/2021/10/06/news/news-39/"/>
+    <id>http://example.com/2021/10/06/news/news-39/</id>
+    <published>2021-10-07T05:00:00.000Z</published>
+    <updated>2021-10-09T00:37:56.282Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;来源：ORNL Quantum Computing Institute ｜ 转译编写：求是量子&lt;/p&gt;
+&lt;h2 id=&quot;Rigetti完成英国量子计算机的搭建&quot;&gt;&lt;a href=&quot;#Rigetti完成英国量子计算机的搭建&quot; class=&quot;headerlink&quot; title=&quot;Rigetti完成英国量子计算机的搭建&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://www.eenewseurope.com/news/rigetti-completes-uk-quantum-computer&quot;&gt;Rigetti完成英国量子计算机的搭建&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Rigetti及其合作伙伴已经在英国完成了首个量子计算系统的建设，并计划在2022年初通过Rigetti量子云服务提供该系统。这台商用量子计算机是英国的第一台，并且是创新英国项目的一部分，该项目还包含诸多有名的研究机构，如牛津仪器(Oxford Instruments，OI)、爱丁堡大学(University of Edinburgh)、量子软件初创企业Phasecraft以及渣打银行(Standard Chartered Bank)。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="量子资讯" scheme="http://example.com/categories/%E9%87%8F%E5%AD%90%E8%B5%84%E8%AE%AF/"/>
+    
+    <category term="科技与工业快讯" scheme="http://example.com/categories/%E9%87%8F%E5%AD%90%E8%B5%84%E8%AE%AF/%E7%A7%91%E6%8A%80%E4%B8%8E%E5%B7%A5%E4%B8%9A%E5%BF%AB%E8%AE%AF/"/>
+    
+    
+    <category term="量子快讯" scheme="http://example.com/tags/%E9%87%8F%E5%AD%90%E5%BF%AB%E8%AE%AF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>全球量子科技与工业快讯第三十八期</title>
+    <link href="http://example.com/2021/09/27/news/news-38/"/>
+    <id>http://example.com/2021/09/27/news/news-38/</id>
+    <published>2021-09-28T05:00:00.000Z</published>
+    <updated>2021-09-29T03:13:55.782Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;来源：ORNL Quantum Computing Institute ｜ 转译编写：求是量子&lt;/p&gt;
+&lt;h2 id=&quot;国家量子计算中心在牛津正式开工建设&quot;&gt;&lt;a href=&quot;#国家量子计算中心在牛津正式开工建设&quot; class=&quot;headerlink&quot; title=&quot;国家量子计算中心在牛津正式开工建设&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://thequantumdaily.com/2021/09/21/construction-of-the-national-quantum-computing-centre-facility-officially-underway-in-oxfordshire/&quot;&gt;国家量子计算中心在牛津正式开工建设&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;英国的国家量子计算中心（National Quantum Computing Centre，NQCC）是一个新的研究机构，由英国研究和创新机构（UK Research and Innovation，UKRI）投资9300万英镑而建立，&lt;a href=&quot;/2021/08/18/news/news-32/&quot;&gt;详情可见《全球量子科技与工业快讯第三十二期》&lt;/a&gt;。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="量子资讯" scheme="http://example.com/categories/%E9%87%8F%E5%AD%90%E8%B5%84%E8%AE%AF/"/>
+    
+    <category term="科技与工业快讯" scheme="http://example.com/categories/%E9%87%8F%E5%AD%90%E8%B5%84%E8%AE%AF/%E7%A7%91%E6%8A%80%E4%B8%8E%E5%B7%A5%E4%B8%9A%E5%BF%AB%E8%AE%AF/"/>
+    
+    
+    <category term="量子快讯" scheme="http://example.com/tags/%E9%87%8F%E5%AD%90%E5%BF%AB%E8%AE%AF/"/>
+    
+  </entry>
+  
+  <entry>
     <title>全球量子科技与工业快讯第三十七期</title>
-    <link href="http://example.com/2021/09/23/news/news-37/"/>
-    <id>http://example.com/2021/09/23/news/news-37/</id>
+    <link href="http://example.com/2021/09/22/news/news-37/"/>
+    <id>http://example.com/2021/09/22/news/news-37/</id>
     <published>2021-09-23T05:00:00.000Z</published>
     <updated>2021-09-24T01:40:45.392Z</updated>
     
@@ -40,8 +326,8 @@
   
   <entry>
     <title>全球量子科技与工业快讯第三十六期</title>
-    <link href="http://example.com/2021/09/14/news/news-36/"/>
-    <id>http://example.com/2021/09/14/news/news-36/</id>
+    <link href="http://example.com/2021/09/13/news/news-36/"/>
+    <id>http://example.com/2021/09/13/news/news-36/</id>
     <published>2021-09-14T05:00:00.000Z</published>
     <updated>2021-09-16T01:51:07.119Z</updated>
     
@@ -62,8 +348,8 @@
   
   <entry>
     <title>全球量子科技与工业快讯第三十五期</title>
-    <link href="http://example.com/2021/09/08/news/news-35/"/>
-    <id>http://example.com/2021/09/08/news/news-35/</id>
+    <link href="http://example.com/2021/09/07/news/news-35/"/>
+    <id>http://example.com/2021/09/07/news/news-35/</id>
     <published>2021-09-08T05:00:00.000Z</published>
     <updated>2021-09-09T03:30:55.054Z</updated>
     
@@ -84,8 +370,8 @@
   
   <entry>
     <title>全球量子科技与工业快讯第三十四期</title>
-    <link href="http://example.com/2021/09/02/news/news-34/"/>
-    <id>http://example.com/2021/09/02/news/news-34/</id>
+    <link href="http://example.com/2021/09/01/news/news-34/"/>
+    <id>http://example.com/2021/09/01/news/news-34/</id>
     <published>2021-09-02T05:00:00.000Z</published>
     <updated>2021-09-03T00:16:08.354Z</updated>
     
@@ -106,8 +392,8 @@
   
   <entry>
     <title>全球量子科技与工业快讯第三十三期</title>
-    <link href="http://example.com/2021/08/25/news/news-33/"/>
-    <id>http://example.com/2021/08/25/news/news-33/</id>
+    <link href="http://example.com/2021/08/24/news/news-33/"/>
+    <id>http://example.com/2021/08/24/news/news-33/</id>
     <published>2021-08-25T05:00:00.000Z</published>
     <updated>2021-08-26T01:21:03.853Z</updated>
     
@@ -128,8 +414,8 @@
   
   <entry>
     <title>全球量子科技与工业快讯第三十二期</title>
-    <link href="http://example.com/2021/08/18/news/news-32/"/>
-    <id>http://example.com/2021/08/18/news/news-32/</id>
+    <link href="http://example.com/2021/08/17/news/news-32/"/>
+    <id>http://example.com/2021/08/17/news/news-32/</id>
     <published>2021-08-18T05:00:00.000Z</published>
     <updated>2021-08-18T19:34:56.728Z</updated>
     
@@ -150,302 +436,14 @@
   
   <entry>
     <title>全球量子科技与工业快讯第三十一期</title>
-    <link href="http://example.com/2021/08/03/news/news-31/"/>
-    <id>http://example.com/2021/08/03/news/news-31/</id>
+    <link href="http://example.com/2021/08/02/news/news-31/"/>
+    <id>http://example.com/2021/08/02/news/news-31/</id>
     <published>2021-08-03T05:00:00.000Z</published>
     <updated>2021-08-04T15:03:01.628Z</updated>
     
     
     <summary type="html">&lt;p&gt;来源：ORNL Quantum Computing Institute ｜ 转译编写：求是量子&lt;/p&gt;
 &lt;h2 id=&quot;超导线路中的新量子比特方案&quot;&gt;&lt;a href=&quot;#超导线路中的新量子比特方案&quot; class=&quot;headerlink&quot; title=&quot;超导线路中的新量子比特方案&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://www.hpcwire.com/off-the-wire/yale-researchers-combining-2-approaches-to-advance-quantum-computing/&quot;&gt;超导线路中的新量子比特方案&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;量子计算机具有超越所有传统计算系统的潜力,而目前在固体材料中，最具潜力的两种方案便是超导线路和半导体量子点。它们分别通过操控超导电流和电子的自旋来实现量子信息的处理。近日，一篇刊登在顶级期刊《科学》（Science）上题为 &lt;a href=&quot;https://doi.org/10.1126/science.abf0345&quot;&gt;Coherent manipulation of an Andreev spin qubit&lt;/a&gt; 的文章则提出了一种新的方案。&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="量子资讯" scheme="http://example.com/categories/%E9%87%8F%E5%AD%90%E8%B5%84%E8%AE%AF/"/>
-    
-    <category term="科技与工业快讯" scheme="http://example.com/categories/%E9%87%8F%E5%AD%90%E8%B5%84%E8%AE%AF/%E7%A7%91%E6%8A%80%E4%B8%8E%E5%B7%A5%E4%B8%9A%E5%BF%AB%E8%AE%AF/"/>
-    
-    
-    <category term="量子快讯" scheme="http://example.com/tags/%E9%87%8F%E5%AD%90%E5%BF%AB%E8%AE%AF/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>全球量子科技与工业快讯第三十期</title>
-    <link href="http://example.com/2021/07/27/news/news-30/"/>
-    <id>http://example.com/2021/07/27/news/news-30/</id>
-    <published>2021-07-27T05:00:00.000Z</published>
-    <updated>2021-07-28T15:04:05.413Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;来源：ORNL Quantum Computing Institute ｜ 转译编写：求是量子&lt;/p&gt;
-&lt;h2 id=&quot;剑桥量子提出新的用以解决组合优化问题的量子算法&quot;&gt;&lt;a href=&quot;#剑桥量子提出新的用以解决组合优化问题的量子算法&quot; class=&quot;headerlink&quot; title=&quot;剑桥量子提出新的用以解决组合优化问题的量子算法&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://insidehpc.com/2021/07/cambridge-quantum-algorithm-solves-combinatorial-optimisation-problems-faster/&quot;&gt;剑桥量子提出新的用以解决组合优化问题的量子算法&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;组合优化问题（Combinatorial Optimisation）是一类极难的优化问题，并在不同的领域拥有非常广泛的应用，如旅行商问题、车辆路线规划以及作业车间调度等。经典计算机通常难以处理非常大的组合优化问题，而量子计算机被认为在解决此类问题上存在一定的优势。近日，剑桥量子计算（Cambridge Quantum Computing，CQC）宣称发现了一种新的量子算法，可以利用当下的有噪声的中小型量子计算解决商业和不同工业中普遍存在的组合优化问题。&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="量子资讯" scheme="http://example.com/categories/%E9%87%8F%E5%AD%90%E8%B5%84%E8%AE%AF/"/>
-    
-    <category term="科技与工业快讯" scheme="http://example.com/categories/%E9%87%8F%E5%AD%90%E8%B5%84%E8%AE%AF/%E7%A7%91%E6%8A%80%E4%B8%8E%E5%B7%A5%E4%B8%9A%E5%BF%AB%E8%AE%AF/"/>
-    
-    
-    <category term="量子快讯" scheme="http://example.com/tags/%E9%87%8F%E5%AD%90%E5%BF%AB%E8%AE%AF/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>全球量子科技与工业快讯第二十九期</title>
-    <link href="http://example.com/2021/07/20/news/news-29/"/>
-    <id>http://example.com/2021/07/20/news/news-29/</id>
-    <published>2021-07-20T05:00:00.000Z</published>
-    <updated>2021-07-21T01:13:08.020Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;来源：ORNL Quantum Computing Institute ｜ 转译编写：求是量子&lt;/p&gt;
-&lt;h2 id=&quot;卢森堡计划为量子通信开展基建&quot;&gt;&lt;a href=&quot;#卢森堡计划为量子通信开展基建&quot; class=&quot;headerlink&quot; title=&quot;卢森堡计划为量子通信开展基建&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://www.businesswire.com/news/home/20210712005866/en/SES-led-Consortium-to-Define-Luxembourg%E2%80%99s-Quantum-Communication-Infrastructure-for-Europe&quot;&gt;卢森堡计划为量子通信开展基建&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;卢森堡量子通信基础设施（Luxembourg’s Quantum Communications Infrastructure，LuxQCI）是一项由卢森堡国务院（Ministry of State）下属的媒体、电信和数字政策部(Department of Media, Telecommunications and Digital Policy，SMC)协调，并在卢森堡国家LuxIMPULSE计划下得到欧洲航天局(European Space Agency，ESA)和卢森堡航天局(Luxembourg Space Agency，LSA)的支持下成立的计划。&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="量子资讯" scheme="http://example.com/categories/%E9%87%8F%E5%AD%90%E8%B5%84%E8%AE%AF/"/>
-    
-    <category term="科技与工业快讯" scheme="http://example.com/categories/%E9%87%8F%E5%AD%90%E8%B5%84%E8%AE%AF/%E7%A7%91%E6%8A%80%E4%B8%8E%E5%B7%A5%E4%B8%9A%E5%BF%AB%E8%AE%AF/"/>
-    
-    
-    <category term="量子快讯" scheme="http://example.com/tags/%E9%87%8F%E5%AD%90%E5%BF%AB%E8%AE%AF/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>致力于“量子优越性”的实现，全球在线搜索巨头谷歌引领量子科技的发展</title>
-    <link href="http://example.com/2021/07/18/company/google/"/>
-    <id>http://example.com/2021/07/18/company/google/</id>
-    <published>2021-07-18T05:00:00.000Z</published>
-    <updated>2021-07-21T01:11:44.335Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;来源：求是量子系列之“量子产业观察”&lt;/p&gt;
-&lt;p&gt;在&lt;a href=&quot;/2021/05/25/company/IBM/&quot;&gt;上一期的产业观察&lt;/a&gt;中，我们领略了IBM在量子领域的布局，见证了IBM是如何为即将到来的量子优势时代做好准备。今天求是量子为大家介绍另一家我们耳熟能详的公司：谷歌（Google）。目前，谷歌是公认的全球最大的搜索引擎公司。而在量子领域，很多人也听说过谷歌在2019年宣称率先实现“量子优越性”（quantum advantage）。&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="量子咨询" scheme="http://example.com/categories/%E9%87%8F%E5%AD%90%E5%92%A8%E8%AF%A2/"/>
-    
-    <category term="全球产业观察" scheme="http://example.com/categories/%E9%87%8F%E5%AD%90%E5%92%A8%E8%AF%A2/%E5%85%A8%E7%90%83%E4%BA%A7%E4%B8%9A%E8%A7%82%E5%AF%9F/"/>
-    
-    
-    <category term="产业观察" scheme="http://example.com/tags/%E4%BA%A7%E4%B8%9A%E8%A7%82%E5%AF%9F/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>全球量子科技与工业快讯第二十八期</title>
-    <link href="http://example.com/2021/07/12/news/news-28/"/>
-    <id>http://example.com/2021/07/12/news/news-28/</id>
-    <published>2021-07-12T05:00:00.000Z</published>
-    <updated>2021-07-13T01:12:44.991Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;来源：ORNL Quantum Computing Institute ｜ 转译编写：求是量子&lt;/p&gt;
-&lt;h2 id=&quot;KPN将在荷兰现有光纤基础上建立量子安全网络&quot;&gt;&lt;a href=&quot;#KPN将在荷兰现有光纤基础上建立量子安全网络&quot; class=&quot;headerlink&quot; title=&quot;KPN将在荷兰现有光纤基础上建立量子安全网络&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://www.capacitymedia.com/articles/3829046/kpn-aims-for-quantum-secure-network-across-netherlands-on-existing-fibre&quot;&gt;KPN将在荷兰现有光纤基础上建立量子安全网络&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;荷兰皇家电信集团（Koninklijke KPN N.V., KPN）计划利用现有的光纤基础设施，在荷兰范围内建立一个量子安全电信网络。该公司近日表示，希望将该网络扩展到比利时、法国和德国，并以此作为建立高度安全的欧洲通信网络的第一步。&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="量子资讯" scheme="http://example.com/categories/%E9%87%8F%E5%AD%90%E8%B5%84%E8%AE%AF/"/>
-    
-    <category term="科技与工业快讯" scheme="http://example.com/categories/%E9%87%8F%E5%AD%90%E8%B5%84%E8%AE%AF/%E7%A7%91%E6%8A%80%E4%B8%8E%E5%B7%A5%E4%B8%9A%E5%BF%AB%E8%AE%AF/"/>
-    
-    
-    <category term="量子快讯" scheme="http://example.com/tags/%E9%87%8F%E5%AD%90%E5%BF%AB%E8%AE%AF/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>全球量子科技与工业快讯第二十七期</title>
-    <link href="http://example.com/2021/07/05/news/news-27/"/>
-    <id>http://example.com/2021/07/05/news/news-27/</id>
-    <published>2021-07-05T05:00:00.000Z</published>
-    <updated>2021-07-06T18:20:26.881Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;来源：ORNL Quantum Computing Institute ｜ 转译编写：求是量子&lt;/p&gt;
-&lt;h2 id=&quot;英伟达平台加速量子电路仿真&quot;&gt;&lt;a href=&quot;#英伟达平台加速量子电路仿真&quot; class=&quot;headerlink&quot; title=&quot;英伟达平台加速量子电路仿真&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://www.hpcwire.com/off-the-wire/nvidia-platform-accelerates-quantum-circuit-simulation-ecosystem/&quot;&gt;英伟达平台加速量子电路仿真&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;英伟达（NVIDIA）在GTC(GPU Technology Conference) 2021上发布了cuQuantum软件开发工具包（cuQuantum SDK），以加快gpu上的量子线路的模拟。我们曾在&lt;a href=&quot;/2021/04/19/news/news-17/&quot;&gt;《全球量子科技与工业快讯第十七期》&lt;/a&gt;中报道过，该项目是英伟达与美国加州理工学院（California Institute of Technology）共同开发的。&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="量子资讯" scheme="http://example.com/categories/%E9%87%8F%E5%AD%90%E8%B5%84%E8%AE%AF/"/>
-    
-    <category term="科技与工业快讯" scheme="http://example.com/categories/%E9%87%8F%E5%AD%90%E8%B5%84%E8%AE%AF/%E7%A7%91%E6%8A%80%E4%B8%8E%E5%B7%A5%E4%B8%9A%E5%BF%AB%E8%AE%AF/"/>
-    
-    
-    <category term="量子快讯" scheme="http://example.com/tags/%E9%87%8F%E5%AD%90%E5%BF%AB%E8%AE%AF/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>全球量子科技与工业快讯第二十六期</title>
-    <link href="http://example.com/2021/07/01/news/news-26/"/>
-    <id>http://example.com/2021/07/01/news/news-26/</id>
-    <published>2021-07-01T05:00:00.000Z</published>
-    <updated>2021-07-02T01:05:53.644Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;来源：ORNL Quantum Computing Institute ｜ 转译编写：求是量子&lt;/p&gt;
-&lt;h2 id=&quot;英国初创Arqit公司将于2023年开始用卫星发送量子密钥&quot;&gt;&lt;a href=&quot;#英国初创Arqit公司将于2023年开始用卫星发送量子密钥&quot; class=&quot;headerlink&quot; title=&quot;英国初创Arqit公司将于2023年开始用卫星发送量子密钥&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://www.space.com/arqit-quantum-key-distribution-space&quot;&gt;英国初创Arqit公司将于2023年开始用卫星发送量子密钥&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;英国初创公司Arqit正准备在短短两年内用卫星向全球提供牢不可破的量子加密密钥。Arqit公司最近宣布与美国国防巨头诺斯罗普·格鲁曼公司和英国电信巨头BT公司合作，计划在2023年从英国康沃尔太空港发射两颗用于量子密钥分发的卫星，并搭载维珍轨道公司的LauncherOne。&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="量子资讯" scheme="http://example.com/categories/%E9%87%8F%E5%AD%90%E8%B5%84%E8%AE%AF/"/>
-    
-    <category term="科技与工业快讯" scheme="http://example.com/categories/%E9%87%8F%E5%AD%90%E8%B5%84%E8%AE%AF/%E7%A7%91%E6%8A%80%E4%B8%8E%E5%B7%A5%E4%B8%9A%E5%BF%AB%E8%AE%AF/"/>
-    
-    
-    <category term="量子快讯" scheme="http://example.com/tags/%E9%87%8F%E5%AD%90%E5%BF%AB%E8%AE%AF/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>全球量子科技与工业快讯第二十五期</title>
-    <link href="http://example.com/2021/06/20/news/news-25/"/>
-    <id>http://example.com/2021/06/20/news/news-25/</id>
-    <published>2021-06-20T05:00:00.000Z</published>
-    <updated>2021-06-20T16:27:10.428Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;来源：ORNL Quantum Computing Institute ｜ 转译编写：求是量子&lt;/p&gt;
-&lt;h2 id=&quot;IBM在德国揭晓其首个位于美国之外的量子计算机&quot;&gt;&lt;a href=&quot;#IBM在德国揭晓其首个位于美国之外的量子计算机&quot; class=&quot;headerlink&quot; title=&quot;IBM在德国揭晓其首个位于美国之外的量子计算机&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://www.wraltechwire.com/2021/06/15/ibm-unveils-new-quantum-computer-in-germany-first-outside-us/&quot;&gt;IBM在德国揭晓其首个位于美国之外的量子计算机&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;IBM于上周二在德国揭晓一台量子计算机，据悉，这是IBM首次在美国境内之外建造量子计算机（IBM目前在国美境内约有30台量子计算机）。此次建造的量子计算机型号为IBM Quantum System One，是目前欧洲计算能力最强的量子计算机。德国总理安格拉·默克尔（Angela Merkel）也通过远程视频参与了此次揭幕典礼，并表示德国将在未来5年内在量子计算领域投资2亿欧元（折合美元约2.4亿）。&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="量子资讯" scheme="http://example.com/categories/%E9%87%8F%E5%AD%90%E8%B5%84%E8%AE%AF/"/>
-    
-    <category term="科技与工业快讯" scheme="http://example.com/categories/%E9%87%8F%E5%AD%90%E8%B5%84%E8%AE%AF/%E7%A7%91%E6%8A%80%E4%B8%8E%E5%B7%A5%E4%B8%9A%E5%BF%AB%E8%AE%AF/"/>
-    
-    
-    <category term="量子快讯" scheme="http://example.com/tags/%E9%87%8F%E5%AD%90%E5%BF%AB%E8%AE%AF/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>全球量子科技与工业快讯第二十四期</title>
-    <link href="http://example.com/2021/06/14/news/news-24/"/>
-    <id>http://example.com/2021/06/14/news/news-24/</id>
-    <published>2021-06-14T05:00:00.000Z</published>
-    <updated>2021-06-16T23:26:55.927Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;来源：ORNL Quantum Computing Institute ｜ 转译编写：求是量子&lt;/p&gt;
-&lt;h2 id=&quot;G7将共同建立卫星量子加密通讯网络&quot;&gt;&lt;a href=&quot;#G7将共同建立卫星量子加密通讯网络&quot; class=&quot;headerlink&quot; title=&quot;G7将共同建立卫星量子加密通讯网络&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://spacenews.com/governments-ally-for-federated-quantum-encryption-satellite-network/&quot;&gt;G7将共同建立卫星量子加密通讯网络&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;G7（Group of Seven）七个成员国（即美国、加拿大、英国、法国、德国、意大利和日本）将合作建立联合量子系统（Federated Quantum System，以下简写为FQS），以实现一个基于卫星的量子加密通讯网络。该项目将建立在英国初创公司Arqit现有的技术基础之上。Arqit正在开发商用量子通信网络，以帮助客户应对日益复杂的网络安全攻击。Arqit在此前成功融资4亿美元，详情请参考&lt;a href=&quot;/2021/05/16/news/news-21/&quot;&gt;《全球量子科技与工业快讯第二十一期》&lt;/a&gt;。&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="量子资讯" scheme="http://example.com/categories/%E9%87%8F%E5%AD%90%E8%B5%84%E8%AE%AF/"/>
-    
-    <category term="科技与工业快讯" scheme="http://example.com/categories/%E9%87%8F%E5%AD%90%E8%B5%84%E8%AE%AF/%E7%A7%91%E6%8A%80%E4%B8%8E%E5%B7%A5%E4%B8%9A%E5%BF%AB%E8%AE%AF/"/>
-    
-    
-    <category term="量子快讯" scheme="http://example.com/tags/%E9%87%8F%E5%AD%90%E5%BF%AB%E8%AE%AF/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>全球量子科技与工业快讯第二十三期</title>
-    <link href="http://example.com/2021/06/07/news/news-23/"/>
-    <id>http://example.com/2021/06/07/news/news-23/</id>
-    <published>2021-06-07T05:00:00.000Z</published>
-    <updated>2021-06-08T01:47:12.640Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;来源：ORNL Quantum Computing Institute ｜ 转译编写：求是量子&lt;/p&gt;
-&lt;h2 id=&quot;欧盟与EuroQCI卫星成立量子通信联盟&quot;&gt;&lt;a href=&quot;#欧盟与EuroQCI卫星成立量子通信联盟&quot; class=&quot;headerlink&quot; title=&quot;欧盟与EuroQCI卫星成立量子通信联盟&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://spacenews.com/europe-picks-euroqci-satellite-quantum-communications-consortium/&quot;&gt;欧盟与EuroQCI卫星成立量子通信联盟&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;随着初创公司Arqit融资4亿美元开发量子加密卫星（详情请参考&lt;a href=&quot;/2021/05/16/news/news-21/&quot;&gt;《全球量子科技与工业快讯第二十一期》&lt;/a&gt;），欧盟已委托空客（Airbus）领导的一个小组设计开发自己的量子通信网络。空客公司于5月31日表示，欧盟委员会（European Commission）与其签署了一份合同，以共同研发一个代号为EuroQCI的量子通信网络，从而确保整个欧洲大陆上关键基础设施的安全。EuroQCI的目标是使用量子光子态来分发加密密钥，使其比传统加密方法更安全。该项目将利用地面光纤与卫星通信来覆盖所有的欧盟成员及其海外领地。这份为期15个月的协议价值数百万欧元。&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="量子资讯" scheme="http://example.com/categories/%E9%87%8F%E5%AD%90%E8%B5%84%E8%AE%AF/"/>
-    
-    <category term="科技与工业快讯" scheme="http://example.com/categories/%E9%87%8F%E5%AD%90%E8%B5%84%E8%AE%AF/%E7%A7%91%E6%8A%80%E4%B8%8E%E5%B7%A5%E4%B8%9A%E5%BF%AB%E8%AE%AF/"/>
-    
-    
-    <category term="量子快讯" scheme="http://example.com/tags/%E9%87%8F%E5%AD%90%E5%BF%AB%E8%AE%AF/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>全球量子科技与工业快讯第二十二期</title>
-    <link href="http://example.com/2021/05/31/news/news-22/"/>
-    <id>http://example.com/2021/05/31/news/news-22/</id>
-    <published>2021-05-31T05:00:00.000Z</published>
-    <updated>2021-05-31T16:46:24.116Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;来源：ORNL Quantum Computing Institute ｜ 转译编写：求是量子&lt;/p&gt;
-&lt;h2 id=&quot;欧盟将投资70亿欧元发展超算与量子计算机&quot;&gt;&lt;a href=&quot;#欧盟将投资70亿欧元发展超算与量子计算机&quot; class=&quot;headerlink&quot; title=&quot;欧盟将投资70亿欧元发展超算与量子计算机&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://www.hpcwire.com/off-the-wire/eu-commission-welcomes-councils-support-for-e7b-investment-in-supercomputing-infrastructure/&quot;&gt;欧盟将投资70亿欧元发展超算与量子计算机&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;欧洲联盟委员会（European Commission）近日通过了一项由自欧洲高性能计算联合担保制度（European High Performance Computing Joint Undertaking Regulation.）推进的提议。该提议将提供70亿欧元用于与下一代超算，量子计算机和兆兆位网络相关的研究，开发和应用。据悉，该项目资金将由“欧洲地平线”(（Horizon Europe）计划提供，后者的预算则达到了近千亿欧元（&lt;a href=&quot;/2021/03/22/news/news-13/&quot;&gt;《全球量子科技与工业快讯第十三期》&lt;/a&gt;）。&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="量子资讯" scheme="http://example.com/categories/%E9%87%8F%E5%AD%90%E8%B5%84%E8%AE%AF/"/>
-    
-    <category term="科技与工业快讯" scheme="http://example.com/categories/%E9%87%8F%E5%AD%90%E8%B5%84%E8%AE%AF/%E7%A7%91%E6%8A%80%E4%B8%8E%E5%B7%A5%E4%B8%9A%E5%BF%AB%E8%AE%AF/"/>
-    
-    
-    <category term="量子快讯" scheme="http://example.com/tags/%E9%87%8F%E5%AD%90%E5%BF%AB%E8%AE%AF/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>帮用户开启量子旅程，IBM正为量子优势时代做好准备</title>
-    <link href="http://example.com/2021/05/25/company/IBM/"/>
-    <id>http://example.com/2021/05/25/company/IBM/</id>
-    <published>2021-05-25T05:00:00.000Z</published>
-    <updated>2021-05-26T01:27:41.916Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;来源：求是量子系列之“量子产业观察”&lt;/p&gt;
-&lt;p&gt;在前面六期文章中，我们已经介绍并分析了中国四大物联网龙头企业&lt;a href=&quot;/2021/01/06/company/baidu/&quot;&gt;百度&lt;/a&gt;，&lt;a href=&quot;/2020/12/30/company/alibaba/&quot;&gt;阿里&lt;/a&gt;，&lt;a href=&quot;/2021/01/20/company/tecent/&quot;&gt;腾讯&lt;/a&gt;（BAT），&lt;a href=&quot;/2021/02/10/company/huawei/&quot;&gt;华为&lt;/a&gt;（Huawei）和&lt;a href=&quot;/2021/03/17/company/benyuan/&quot;&gt;本源&lt;/a&gt;（Origin）以及&lt;a href=&quot;/2021/04/21/company/startup-domestic/&quot;&gt;国内的一些初创公司&lt;/a&gt;量子产业的现状。从本篇（第七期）起，让我们把目光转向活跃在一线的国外公司，看看国际上的这些量子计算公司是如何布局量子产业，引领相关科学技术的发展的。&lt;/p&gt;
-&lt;p&gt;今天的主角是国际商业机器公司或万国商业机器公司（International Business Machines Corporation，以下简称为“IBM”）。该公司总公司在纽约州阿蒙克市（Armonk, New York）。1911年由托马斯·沃森（Thomas J. Watson）创立于美国，是全球最大的信息技术和业务解决方案公司。IBM早在1996年就开始了量子计算的研究，是全球较早进入量子计算领域的玩家。&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="量子咨询" scheme="http://example.com/categories/%E9%87%8F%E5%AD%90%E5%92%A8%E8%AF%A2/"/>
-    
-    <category term="全球产业观察" scheme="http://example.com/categories/%E9%87%8F%E5%AD%90%E5%92%A8%E8%AF%A2/%E5%85%A8%E7%90%83%E4%BA%A7%E4%B8%9A%E8%A7%82%E5%AF%9F/"/>
-    
-    
-    <category term="产业观察" scheme="http://example.com/tags/%E4%BA%A7%E4%B8%9A%E8%A7%82%E5%AF%9F/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>狂热下的量子计算会是一场泡沫吗？（上）</title>
-    <link href="http://example.com/2021/05/17/company/qc-hype/"/>
-    <id>http://example.com/2021/05/17/company/qc-hype/</id>
-    <published>2021-05-17T05:00:00.000Z</published>
-    <updated>2021-05-26T00:17:08.863Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;来源：科学美国人（Scientific American）｜转译编写：求是量子&lt;/p&gt;
-&lt;p&gt;求是量子按：刘晓波在《大败局》中曾写下“正是他们在第一时间将大洋彼岸的最新网络动态’空投‘到幼弱的中国市场上，掀起了一轮又一轮的概念热浪。在这样的炒作中，天真的传统企业、股民及各级政府的资金成为他们创造神话的助燃剂…… 在青年精英们那种充满了激情而无不梦幻的经营姿态背后，却未必有着超越前人的、成熟的经营理念。”&lt;/p&gt;
-&lt;p&gt;今天，我们在全球范围内见证了类似的热浪——一股量子计算的热浪。随着数以百万，甚至数以亿计的资金涌入量子计算领域，很多象牙塔中的研究人员一下手握巨额的资金，走上了经营管理、创业融资、甚至借壳上市的道路。他们能否善用这些资金？更进一步，在如此巨大的金钱诱惑之下，研究人员是否还能够客观地衡量整个领域的未来？量子计算是否真如新闻和一些量子狂热者们所宣称的那样将&lt;strong&gt;在不久的未来&lt;/strong&gt;改变整个世界？&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="量子咨询" scheme="http://example.com/categories/%E9%87%8F%E5%AD%90%E5%92%A8%E8%AF%A2/"/>
-    
-    <category term="国际市场见解" scheme="http://example.com/categories/%E9%87%8F%E5%AD%90%E5%92%A8%E8%AF%A2/%E5%9B%BD%E9%99%85%E5%B8%82%E5%9C%BA%E8%A7%81%E8%A7%A3/"/>
-    
-    
-    <category term="产业观察" scheme="http://example.com/tags/%E4%BA%A7%E4%B8%9A%E8%A7%82%E5%AF%9F/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>全球量子科技与工业快讯第二十一期</title>
-    <link href="http://example.com/2021/05/16/news/news-21/"/>
-    <id>http://example.com/2021/05/16/news/news-21/</id>
-    <published>2021-05-16T05:00:00.000Z</published>
-    <updated>2021-05-17T00:22:00.959Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;来源：ORNL Quantum Computing Institute ｜ 转译编写：求是量子&lt;/p&gt;
-&lt;h2 id=&quot;德国将投资20亿欧元建造其首个量子计算机&quot;&gt;&lt;a href=&quot;#德国将投资20亿欧元建造其首个量子计算机&quot; class=&quot;headerlink&quot; title=&quot;德国将投资20亿欧元建造其首个量子计算机&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://eandt.theiet.org/content/articles/2021/05/germany-to-invest-2bn-in-building-first-quantum-computer/&quot;&gt;德国将投资20亿欧元建造其首个量子计算机&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;据路透社（Reuters）报道，德国政府于上周宣布将投资约20亿欧元来支持量子计算的开发。该计划由德国科技部（science ministry）与经济部（economy ministry）共同发起，其中科技部将投资约11亿欧元，用于量子计算机的研发。而经济部也将贡献8.78亿欧元用于量子计算应用的探索。&lt;/p&gt;</summary>
     
     
     
