@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-01-09T03:20:22.626Z</updated>
+  <updated>2022-01-23T18:59:26.463Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,50 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>全球量子科技与工业快讯第五十一期</title>
+    <link href="http://example.com/2022/01/23/news/news-51/"/>
+    <id>http://example.com/2022/01/23/news/news-51/</id>
+    <published>2022-01-23T08:00:00.000Z</published>
+    <updated>2022-01-23T18:59:26.463Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;来源：ORNL Quantum Computing Institute ｜ 转译编写：求是量子&lt;/p&gt;
+&lt;h2 id=&quot;SEEQC计划扩展量子计算机的规模&quot;&gt;&lt;a href=&quot;#SEEQC计划扩展量子计算机的规模&quot; class=&quot;headerlink&quot; title=&quot;SEEQC计划扩展量子计算机的规模&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://www.forbes.com/sites/johnkoetsier/2022/01/11/million-qubit-quantum-computing-how-seeqc-plans-to-scale-quantum-computers/?sh=21985a635b46&quot;&gt;SEEQC计划扩展量子计算机的规模&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;一家位于纽约的初创公司 SEEQC 正着手建造专用的量子计算机。这些专用量子计算机与专用经典计算机类似，只能用于处理一类特殊的问题。比如最早的经典计算机是开发用于计算火箭的导弹轨迹。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="量子资讯" scheme="http://example.com/categories/%E9%87%8F%E5%AD%90%E8%B5%84%E8%AE%AF/"/>
+    
+    <category term="科技与工业快讯" scheme="http://example.com/categories/%E9%87%8F%E5%AD%90%E8%B5%84%E8%AE%AF/%E7%A7%91%E6%8A%80%E4%B8%8E%E5%B7%A5%E4%B8%9A%E5%BF%AB%E8%AE%AF/"/>
+    
+    
+    <category term="量子快讯" scheme="http://example.com/tags/%E9%87%8F%E5%AD%90%E5%BF%AB%E8%AE%AF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>全球量子科技与工业快讯第五十期</title>
+    <link href="http://example.com/2022/01/15/news/news-50/"/>
+    <id>http://example.com/2022/01/15/news/news-50/</id>
+    <published>2022-01-15T08:00:00.000Z</published>
+    <updated>2022-01-23T17:50:41.716Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;来源：ORNL Quantum Computing Institute ｜ 转译编写：求是量子&lt;/p&gt;
+&lt;h2 id=&quot;研究人员实现传播微波的量子隐形传态实验&quot;&gt;&lt;a href=&quot;#研究人员实现传播微波的量子隐形传态实验&quot; class=&quot;headerlink&quot; title=&quot;研究人员实现传播微波的量子隐形传态实验&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://phys.org/news/2022-01-experimental-quantum-teleportation-propagating-microwaves.html&quot;&gt;研究人员实现传播微波的量子隐形传态实验&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;最近，超导电路在量子计算方面的突破引发了对超导处理器之间需要量子通信信道的需求，并且这些处理器在空间中需以微波长度频率分开。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="量子资讯" scheme="http://example.com/categories/%E9%87%8F%E5%AD%90%E8%B5%84%E8%AE%AF/"/>
+    
+    <category term="科技与工业快讯" scheme="http://example.com/categories/%E9%87%8F%E5%AD%90%E8%B5%84%E8%AE%AF/%E7%A7%91%E6%8A%80%E4%B8%8E%E5%B7%A5%E4%B8%9A%E5%BF%AB%E8%AE%AF/"/>
+    
+    
+    <category term="量子快讯" scheme="http://example.com/tags/%E9%87%8F%E5%AD%90%E5%BF%AB%E8%AE%AF/"/>
+    
+  </entry>
   
   <entry>
     <title>全球量子科技与工业快讯第四十九期</title>
@@ -400,50 +444,6 @@
     
     <summary type="html">&lt;p&gt;来源：ORNL Quantum Computing Institute ｜ 转译编写：求是量子&lt;/p&gt;
 &lt;h2 id=&quot;德国联邦机构展示量子安全的视频会议&quot;&gt;&lt;a href=&quot;#德国联邦机构展示量子安全的视频会议&quot; class=&quot;headerlink&quot; title=&quot;德国联邦机构展示量子安全的视频会议&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://optics.org/news/12/8/18&quot;&gt;德国联邦机构展示量子安全的视频会议&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;8月10日，两个德国联邦机构借助光链路首次以量子安全的方式完成视频通讯。这次视频会议为未来高度安全的通信打开了新篇章。此次通讯没有使用传统方法进行加密，而是借助了光量子进行密钥分配。这意味着，如果黑客试图获取将要生成的密钥（这些密钥随后将用于加密传输数据），光粒子就会受到干扰，从而被检测出来。该套量子设备除了可以演示安全视频会议，还可用于产生科学数据，为未来复杂量子安全网络中的通信提供重要的见解。&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="量子资讯" scheme="http://example.com/categories/%E9%87%8F%E5%AD%90%E8%B5%84%E8%AE%AF/"/>
-    
-    <category term="科技与工业快讯" scheme="http://example.com/categories/%E9%87%8F%E5%AD%90%E8%B5%84%E8%AE%AF/%E7%A7%91%E6%8A%80%E4%B8%8E%E5%B7%A5%E4%B8%9A%E5%BF%AB%E8%AE%AF/"/>
-    
-    
-    <category term="量子快讯" scheme="http://example.com/tags/%E9%87%8F%E5%AD%90%E5%BF%AB%E8%AE%AF/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>全球量子科技与工业快讯第三十二期</title>
-    <link href="http://example.com/2021/08/17/news/news-32/"/>
-    <id>http://example.com/2021/08/17/news/news-32/</id>
-    <published>2021-08-18T05:00:00.000Z</published>
-    <updated>2021-08-18T19:34:56.728Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;来源：ORNL Quantum Computing Institute ｜ 转译编写：求是量子&lt;/p&gt;
-&lt;h2 id=&quot;IBM期望通过牺牲连通性以完成量子计算的规模化&quot;&gt;&lt;a href=&quot;#IBM期望通过牺牲连通性以完成量子计算的规模化&quot; class=&quot;headerlink&quot; title=&quot;IBM期望通过牺牲连通性以完成量子计算的规模化&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://spectrum.ieee.org/ibm-s-quantum-computing-compromise-the-road-to-scale&quot;&gt;IBM期望通过牺牲连通性以完成量子计算的规模化&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;国际商业机器公司（International Business Machines Corporation， IBM）于近日宣布其下一代量子处理器 Big Blue 将全面采用六角晶格的布局。&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="量子资讯" scheme="http://example.com/categories/%E9%87%8F%E5%AD%90%E8%B5%84%E8%AE%AF/"/>
-    
-    <category term="科技与工业快讯" scheme="http://example.com/categories/%E9%87%8F%E5%AD%90%E8%B5%84%E8%AE%AF/%E7%A7%91%E6%8A%80%E4%B8%8E%E5%B7%A5%E4%B8%9A%E5%BF%AB%E8%AE%AF/"/>
-    
-    
-    <category term="量子快讯" scheme="http://example.com/tags/%E9%87%8F%E5%AD%90%E5%BF%AB%E8%AE%AF/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>全球量子科技与工业快讯第三十一期</title>
-    <link href="http://example.com/2021/08/02/news/news-31/"/>
-    <id>http://example.com/2021/08/02/news/news-31/</id>
-    <published>2021-08-03T05:00:00.000Z</published>
-    <updated>2021-08-04T15:03:01.628Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;来源：ORNL Quantum Computing Institute ｜ 转译编写：求是量子&lt;/p&gt;
-&lt;h2 id=&quot;超导线路中的新量子比特方案&quot;&gt;&lt;a href=&quot;#超导线路中的新量子比特方案&quot; class=&quot;headerlink&quot; title=&quot;超导线路中的新量子比特方案&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://www.hpcwire.com/off-the-wire/yale-researchers-combining-2-approaches-to-advance-quantum-computing/&quot;&gt;超导线路中的新量子比特方案&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;量子计算机具有超越所有传统计算系统的潜力,而目前在固体材料中，最具潜力的两种方案便是超导线路和半导体量子点。它们分别通过操控超导电流和电子的自旋来实现量子信息的处理。近日，一篇刊登在顶级期刊《科学》（Science）上题为 &lt;a href=&quot;https://doi.org/10.1126/science.abf0345&quot;&gt;Coherent manipulation of an Andreev spin qubit&lt;/a&gt; 的文章则提出了一种新的方案。&lt;/p&gt;</summary>
     
     
     
