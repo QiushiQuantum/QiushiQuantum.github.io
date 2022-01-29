@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-01-23T18:59:26.463Z</updated>
+  <updated>2022-01-29T19:33:13.518Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>全球量子科技与工业快讯第五十二期</title>
+    <link href="http://example.com/2022/01/27/news/news-52/"/>
+    <id>http://example.com/2022/01/27/news/news-52/</id>
+    <published>2022-01-27T08:00:00.000Z</published>
+    <updated>2022-01-29T19:33:13.518Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;来源：ORNL Quantum Computing Institute ｜ 转译编写：求是量子&lt;/p&gt;
+&lt;h2 id=&quot;Atom-Computing-筹集6000万美元用于建造新一代量子计算系统&quot;&gt;&lt;a href=&quot;#Atom-Computing-筹集6000万美元用于建造新一代量子计算系统&quot; class=&quot;headerlink&quot; title=&quot;Atom Computing 筹集6000万美元用于建造新一代量子计算系统&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://atom-computing.com/atom-computing-raises-60m-series-b-to-build-second-generation-quantum-computing-systems/&quot;&gt;Atom Computing 筹集6000万美元用于建造新一代量子计算系统&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Atom Computing 是第一家用由中性原子的核自旋作为量子比特制成量子计算机的公司。该公司近日宣布完成总额 6000 万美元的 B 轮融资。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="量子资讯" scheme="http://example.com/categories/%E9%87%8F%E5%AD%90%E8%B5%84%E8%AE%AF/"/>
+    
+    <category term="科技与工业快讯" scheme="http://example.com/categories/%E9%87%8F%E5%AD%90%E8%B5%84%E8%AE%AF/%E7%A7%91%E6%8A%80%E4%B8%8E%E5%B7%A5%E4%B8%9A%E5%BF%AB%E8%AE%AF/"/>
+    
+    
+    <category term="量子快讯" scheme="http://example.com/tags/%E9%87%8F%E5%AD%90%E5%BF%AB%E8%AE%AF/"/>
+    
+  </entry>
   
   <entry>
     <title>全球量子科技与工业快讯第五十一期</title>
@@ -422,28 +444,6 @@
     
     <summary type="html">&lt;p&gt;来源：ORNL Quantum Computing Institute ｜ 转译编写：求是量子&lt;/p&gt;
 &lt;h2 id=&quot;玻璃芯片或将带来新的量子计算机构架&quot;&gt;&lt;a href=&quot;#玻璃芯片或将带来新的量子计算机构架&quot; class=&quot;headerlink&quot; title=&quot;玻璃芯片或将带来新的量子计算机构架&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://spectrum.ieee.org/ionq-new-quantum-computing-chip&quot;&gt;玻璃芯片或将带来新的量子计算机构架&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;为了扩大量子计算机的规模，IonQ公司推出了一种新型的玻璃芯片。长久以来，IonQ致力于开发基于离子阱（trapped ion）的量子计算机并一直使用传统的硅加工技术。而最近，该公司更新了制造阱（traps）的技术，转而采用了一种基于石英玻璃（译者注：石英玻璃是一种二氧化硅纯度极高的非晶体材料，与含硅酸钠和硅酸钙的传统玻璃有所不同）的制造工艺。&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="量子资讯" scheme="http://example.com/categories/%E9%87%8F%E5%AD%90%E8%B5%84%E8%AE%AF/"/>
-    
-    <category term="科技与工业快讯" scheme="http://example.com/categories/%E9%87%8F%E5%AD%90%E8%B5%84%E8%AE%AF/%E7%A7%91%E6%8A%80%E4%B8%8E%E5%B7%A5%E4%B8%9A%E5%BF%AB%E8%AE%AF/"/>
-    
-    
-    <category term="量子快讯" scheme="http://example.com/tags/%E9%87%8F%E5%AD%90%E5%BF%AB%E8%AE%AF/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>全球量子科技与工业快讯第三十三期</title>
-    <link href="http://example.com/2021/08/24/news/news-33/"/>
-    <id>http://example.com/2021/08/24/news/news-33/</id>
-    <published>2021-08-25T05:00:00.000Z</published>
-    <updated>2021-08-26T01:21:03.853Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;来源：ORNL Quantum Computing Institute ｜ 转译编写：求是量子&lt;/p&gt;
-&lt;h2 id=&quot;德国联邦机构展示量子安全的视频会议&quot;&gt;&lt;a href=&quot;#德国联邦机构展示量子安全的视频会议&quot; class=&quot;headerlink&quot; title=&quot;德国联邦机构展示量子安全的视频会议&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://optics.org/news/12/8/18&quot;&gt;德国联邦机构展示量子安全的视频会议&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;8月10日，两个德国联邦机构借助光链路首次以量子安全的方式完成视频通讯。这次视频会议为未来高度安全的通信打开了新篇章。此次通讯没有使用传统方法进行加密，而是借助了光量子进行密钥分配。这意味着，如果黑客试图获取将要生成的密钥（这些密钥随后将用于加密传输数据），光粒子就会受到干扰，从而被检测出来。该套量子设备除了可以演示安全视频会议，还可用于产生科学数据，为未来复杂量子安全网络中的通信提供重要的见解。&lt;/p&gt;</summary>
     
     
     
